@@ -15,10 +15,9 @@
 <br/>
 <br/>
 **To do List** (para um futuro próximo)
-<br/>
-- [ ] Particles - colors
-
 - [ ] Manter o MouseIsPressed (selecionar) nas Particles   
+
+- [ ] Particles - cores
 
 - [ ] Slider Interação Pointer
 
