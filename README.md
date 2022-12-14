@@ -1,22 +1,27 @@
 
 
 <!--
-**air-polution-portugal/air-![]()polution-portugal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**air-polution-portugal/air-![]()polution-portugal**
 -->
-**To do List**
 
-- [ ] Manter o MouseIsPressed nas particles
-- [ ] Particles responsive
-- [ ] TextBox responsive
-- [ ] Slider responsive
+**Fonte de recolha de dados**
+[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477)
+
+**Wireframes**
+![](anexos_relatorio/WireFrame_1.jpg)
+![](anexos_relatorio/WireFrame_2.jpg)
+
+
+**To do List** (para um futuro próximo)
+- [ ] Particles - colors
+
+- [ ] Manter o MouseIsPressed (selecionar) nas Particles   
+
+- [ ] Slider Interação Pointer
+
+- [ ] Tornar Responsive
+     - [ ] Scene 1 - TextBox
+     - [ ] Mobile Layout
+     - [ ] Particles Spawn
+
+- [ ] Escrever Textos
