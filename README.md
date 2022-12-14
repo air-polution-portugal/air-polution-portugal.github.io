@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-To do List
-- [ ] ajja
-- [ ] ajja
-- [ ] ajaj
+**To do List**
+
+- [ ] Manter o MouseIsPressed nas particles
+- [ ] Particles responsive
+- [ ] TextBox responsive
+- [ ] Slider responsive
