@@ -26,7 +26,7 @@
 
 - [ ] Manter o MouseIsPressed (selecionar) nas Particles   
 
-- [ ] Particles - cores
+- [ ] Particles - Cores
 
 - [ ] Slider
     - [ ] Legenda
