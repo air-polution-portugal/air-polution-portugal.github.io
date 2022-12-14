@@ -16,7 +16,6 @@
 <br/>
 **To do List** (para um futuro próximo)
 <br/>
-- [ ]
 - [ ] Manter o MouseIsPressed (selecionar) nas Particles   
 
 - [ ] Particles - cores
