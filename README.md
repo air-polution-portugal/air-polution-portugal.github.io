@@ -47,7 +47,6 @@
 
 **To do List**
 (para um futuro não tão próximo :) )
-
 <br/>
 
 - [ ] Tornar Responsive (Cont.)
