@@ -30,7 +30,6 @@
 
 - [ ] Slider
     - [ ] Legenda
-    - [ ] Interação on MouseRelleased
 
 - [ ] Tornar Responsive
      - [ ] Mobile Layout
@@ -59,3 +58,4 @@
 
 - [ ] Slider
     - [ ] Interação Pointer
+    - [ ] Interação on MouseRelleased
