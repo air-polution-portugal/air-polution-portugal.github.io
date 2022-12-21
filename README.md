@@ -41,6 +41,9 @@
      - [ ] Textos Setores
      - [ ] Alterar Nomes Setores
 
+- [ ] Pop-up
+    - [ ] Legendas
+
 <br/>
 <br/>
 
