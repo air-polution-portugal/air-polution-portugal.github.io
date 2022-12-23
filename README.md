@@ -26,7 +26,7 @@
 
 - [ ] Manter o MouseIsPressed (selecionar) nas Particles   
 
-- [ ] Particles - Cores
+- [x] Particles - Cores
 
 - [ ] Slider
     - [ ] Legenda
@@ -41,8 +41,7 @@
      - [ ] Textos Setores
      - [ ] Alterar Nomes Setores
 
-- [ ] Pop-up
-    - [ ] Legendas
+- [x] Pop-up _ Legendas
 
 <br/>
 <br/>
