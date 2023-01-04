@@ -13,47 +13,56 @@
 <br/>
 
 
-**Wireframes**
+<details><summary>**Esboços**</summary>
+
 ![](anexos_relatorio/WireFrame_1.jpg)
+
 ![](anexos_relatorio/WireFrame_2.jpg)
 
 ![](anexos_relatorio/WireFrame_3.jpg)
+</details>
+
 <br/>
 <br/>
 
-**To do List**
-(para um futuro próximo)
+<details><summary>**Wireframes**</summary>
+![](anexos_relatorio/WireFrame_3.jpg)
+
+</details>
+<br/>
 <br/>
 
-- [ ] Manter o MouseIsPressed (selecionar) nas Particles   
 
-- [x] Particles - Cores
+<details><summary>**To do List**_(para um futuro próximo)_</summary>
+- [x] Particles - Formato & Cores
+
+- [x] Manter o MouseIsPressed (selecionar) nas Particles
+
+- [x] Pop-up - Legenda de Compração
 
 - [x] Slider
     - [x] Legenda
 
 - [ ] Tornar Responsive
      - [ ] Mobile Layout
-     - [ ] Particles Spawn
+     - [x] Particles Spawn
 
 - [ ]  Escrever Textos
      - [ ] Título Projeto
      - [ ] Texto Intro
      - [ ] Textos Setores
-     - [ ] Alterar Nomes Setores
+     - [x] Alterar Nomes Setores
 
-- [x] Pop-up _ Legendas
+- [ ] Botões
+</details>
 
 <br/>
 <br/>
 
-**To do List**
-(para um futuro não tão próximo :) )
-<br/>
-
-- [ ] Tornar Responsive (Cont.)
-    - [ ] Scene 1 - TextBox
-    - [ ] Organizar Particles - Point vs Line
+<details><summary>**To do List**_(para um futuro não tão próximo :) )_</summary>
+- [x] Tornar Responsive (Cont.)
+    - [x] TextBoxes
+    - [x] Organizar Particles - Point vs Line
   
 - [ ] Scene Intro - Particles (?)
 
@@ -62,6 +71,9 @@
 - [ ] Slider
     - [ ] Interação Pointer
     - [ ] Interação on MouseRelleased
+</details>
+
+
 
 <details><summary>Does work</summary>
 
