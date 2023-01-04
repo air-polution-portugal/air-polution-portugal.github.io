@@ -91,11 +91,3 @@
     - [ ] Interação on MouseRelleased
 </details>
 
-
-
-<details><summary>Does work</summary>
-
-[hi](https://hello.ca)
-
-</details>
-
