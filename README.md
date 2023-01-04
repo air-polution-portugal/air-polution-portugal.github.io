@@ -49,9 +49,6 @@
 ![](anexos_relatorio/WireFrame_3.jpg)
 
 </details>
-<br/>
-<br/>
-
 
 <details><summary>**To do List**_(para um futuro próximo)_</summary>
 - [x] Particles - Formato & Cores
