@@ -22,16 +22,10 @@
 ![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
-<br/>
-<br/>
-
 <details><summary>**Wireframes**</summary>
 ![](anexos_relatorio/WireFrame_3.jpg)
 
 </details>
-
-<br/>
-<br/>
 
 <details><summary>**WireFrame Figma**</summary>
 
@@ -41,9 +35,6 @@
 ![](anexos_relatorio/WireFrame_Figma_4.jpg)
 ![](anexos_relatorio/WireFrame_Figma_5.jpg)
 </details>
-
-<br/>
-<br/>
 
 <details><summary>**Wireframes**</summary>
 ![](anexos_relatorio/WireFrame_3.jpg)
@@ -72,7 +63,6 @@
 
 - [ ] Botões
 </details>
-<br/>
 
 <details><summary> To do List _(para um futuro não tão próximo :) )</summary>
 - [x] Tornar Responsive (Cont.)
