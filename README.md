@@ -29,6 +29,26 @@
 ![](anexos_relatorio/WireFrame_3.jpg)
 
 </details>
+
+<br/>
+<br/>
+
+<details><summary>**WireFrame Figma**</summary>
+
+![](anexos_relatorio/WireFrame_Figma_1.jpg)
+![](anexos_relatorio/WireFrame_Figma_2.jpg)
+![](anexos_relatorio/WireFrame_Figma_3.jpg)
+![](anexos_relatorio/WireFrame_Figma_4.jpg)
+![](anexos_relatorio/WireFrame_Figma_5.jpg)
+</details>
+
+<br/>
+<br/>
+
+<details><summary>**Wireframes**</summary>
+![](anexos_relatorio/WireFrame_3.jpg)
+
+</details>
 <br/>
 <br/>
 
@@ -55,11 +75,9 @@
 
 - [ ] Botões
 </details>
-
-<br/>
 <br/>
 
-<details><summary>**To do List**_(para um futuro não tão próximo :) )_</summary>
+<details><summary> To do List _(para um futuro não tão próximo :) )</summary>
 - [x] Tornar Responsive (Cont.)
     - [x] TextBoxes
     - [x] Organizar Particles - Point vs Line
