@@ -17,6 +17,7 @@
 ![](anexos_relatorio/WireFrame_1.jpg)
 ![](anexos_relatorio/WireFrame_2.jpg)
 
+![](anexos_relatorio/WireFrame_3.jpg)
 <br/>
 <br/>
 
@@ -28,8 +29,8 @@
 
 - [x] Particles - Cores
 
-- [ ] Slider
-    - [ ] Legenda
+- [x] Slider
+    - [x] Legenda
 
 - [ ] Tornar Responsive
      - [ ] Mobile Layout
@@ -61,3 +62,10 @@
 - [ ] Slider
     - [ ] Interação Pointer
     - [ ] Interação on MouseRelleased
+
+<details><summary>Does work</summary>
+
+[hi](https://hello.ca)
+
+</details>
+
