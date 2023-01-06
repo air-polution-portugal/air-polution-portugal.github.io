@@ -16,6 +16,10 @@
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
 <br>
 
+**Biblioteca - P5js**
+<br>[here](https://c2js.org/) :)
+<br>
+
 <details><summary>Moodboard & Referências</summary>
 
 
@@ -72,7 +76,47 @@
 
 ![](anexos_relatorio/Referência_2.png)
 
+<br>
+
+[Life in 2050 Ident](https://vimeo.com/10924639)
+
+<br>
+
+![](anexos_relatorio/Referência_7.png)
+
+<br>
+
+[Visualizing the Digits of Pi](https://www.youtube.com/watch?v=WEd_UIKG-uc&list=PLdmBHU4Jaa1j3S_FDImTyLgnHittN6XEI&index=32)
+
+<br>
+
+![](anexos_relatorio/Referência_8.png)
+
+<br>
+
 </details>
+
+<br>
+
+<details><summary>Esboços</summary>
+
+![](anexos_relatorio/Versões_1.png)
+![](anexos_relatorio/Versões_2.png)
+![](anexos_relatorio/Versões_3.png)
+![](anexos_relatorio/Versões_4.png)
+![](anexos_relatorio/Versões_5.png)
+![](anexos_relatorio/Versões_6.png)
+![](anexos_relatorio/Versões_7.png)
+![](anexos_relatorio/Versões_9.png)
+![](anexos_relatorio/Versões_10.png)
+![](anexos_relatorio/Versões_11.png)
+![](anexos_relatorio/Versões_12.png)
+![](anexos_relatorio/Versões_13.png)
+![](anexos_relatorio/Versões_14.png)
+
+</details>
+
+<br>
 
 <details><summary>Esboços</summary>
 
