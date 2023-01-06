@@ -9,17 +9,19 @@
 <p> intro </p>
 
 **Fonte de recolha de dados**
-<br/>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
-<br/>
+<br>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
+<br>
 
 **Dados**
-<br/>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
-<br/>
+<br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
+<br>
 
 <details><summary>Moodboard & Referências</summary>
 
-<p> [Key Workers](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780) </p>
-<p>  [Key Workers](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780) </p>
+
+ [Key Workers](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
+ 
+ <br>
 
 ![](anexos_relatorio/Referência_3.jpg)
 
