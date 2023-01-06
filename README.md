@@ -22,6 +22,7 @@
 
 <details><summary>Moodboard & Referências</summary>
 
+<br>
 
  [Key Workers](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
  
@@ -157,7 +158,7 @@
 
 </details>
 
-<details><summary> To do List _(para um futuro não tão próximo :) )</summary>
+<details><summary> To do List  (para um futuro não tão próximo :) )</summary>
 
 - [x] Tornar Responsive (Cont.)
     - [x] TextBoxes
