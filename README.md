@@ -96,9 +96,7 @@
 
 </details>
 
-<br>
-
-<details><summary>Esboços</summary>
+<details><summary>Versões Anteriores</summary>
 
 ![](anexos_relatorio/Versões_1.png)
 ![](anexos_relatorio/Versões_2.png)
@@ -115,8 +113,6 @@
 ![](anexos_relatorio/Versões_14.png)
 
 </details>
-
-<br>
 
 <details><summary>Esboços</summary>
 
