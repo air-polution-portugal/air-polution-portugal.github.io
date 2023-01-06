@@ -13,7 +13,7 @@
 <br/>
 
 
-<details><summary>**Esboços**</summary>
+<details><summary>Esboços</summary>
 
 ![](anexos_relatorio/WireFrame_1.jpg)
 
@@ -22,12 +22,7 @@
 ![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
-<details><summary>**Wireframes**</summary>
-![](anexos_relatorio/WireFrame_3.jpg)
-
-</details>
-
-<details><summary>**WireFrame Figma**</summary>
+<details><summary>Wireframes</summary>
 
 ![](anexos_relatorio/WireFrame_Figma_1.jpg)
 ![](anexos_relatorio/WireFrame_Figma_2.jpg)
@@ -36,12 +31,7 @@
 ![](anexos_relatorio/WireFrame_Figma_5.jpg)
 </details>
 
-<details><summary>**Wireframes**</summary>
-![](anexos_relatorio/WireFrame_3.jpg)
-
-</details>
-
-<details><summary>**To do List**_(para um futuro próximo)_</summary>
+<details><summary>To do List_(para um futuro próximo)_</summary>
 - [x] Particles - Formato & Cores
 
 - [x] Manter o MouseIsPressed (selecionar) nas Particles
