@@ -32,6 +32,7 @@
 </details>
 
 <details><summary>To do List_(para um futuro próximo)_</summary>
+
 - [x] Particles - Formato & Cores
 
 - [x] Manter o MouseIsPressed (selecionar) nas Particles
@@ -52,9 +53,11 @@
      - [x] Alterar Nomes Setores
 
 - [ ] Botões
+
 </details>
 
 <details><summary> To do List _(para um futuro não tão próximo :) )</summary>
+
 - [x] Tornar Responsive (Cont.)
     - [x] TextBoxes
     - [x] Organizar Particles - Point vs Line
@@ -66,5 +69,6 @@
 - [ ] Slider
     - [ ] Interação Pointer
     - [ ] Interação on MouseRelleased
+
 </details>
 
