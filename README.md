@@ -18,6 +18,7 @@
 
 <details><summary>Moodboard & Referências</summary>
 
+
 <p> [Key Workers](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780) </p>
 
 ![](anexos_relatorio/Referência_3.jpg)
@@ -25,6 +26,7 @@
 ![](anexos_relatorio/Referência_3-1.jpg)
 
 <br>
+
 
 <p> [Hearts and Minds](https://vimeo.com/657826393?embedded=true&source=vimeo_logo&owner=6931780) </p>
 
@@ -34,12 +36,14 @@
 
 <br>
 
+
 <p> [The Mayors Dialogue on Growth and Solidarity](https://vimeo.com/499241639?embedded=true&source=vimeo_logo&owner=6931780) </p>
 
 ![](anexos_relatorio/Referência_5.png)
 ![](anexos_relatorio/Referência_5-1.png)
 
 <br>
+
 
 <p> [Noise pollution](https://www.behance.net/gallery/96908251/Noise-pollution) </p>
 
@@ -48,12 +52,14 @@
 
 <br>
 
+
 <p> [Energy demand and the rhythm of everyday life](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life) </p>
 
 ![](anexos_relatorio/Referência_1.png)
 ![](anexos_relatorio/Referência_1-1.png)
 
 <br>
+
 
 <p> [The Deepest Lakes](https://www.behance.net/gallery/148418917/The-deepest-lakes) </p>
 
