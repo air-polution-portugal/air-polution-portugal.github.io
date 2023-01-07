@@ -62,7 +62,7 @@
 
 <br>
 
-[Energy demand and the rhythm of everyday life](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life)
+[Energy Demand and the Rhythm of Everyday Life](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life)
 
 <br>
 
@@ -97,6 +97,15 @@
 
 </details>
 
+<details><summary>Esboços</summary>
+
+![](anexos_relatorio/WireFrame_1.jpg)
+
+![](anexos_relatorio/WireFrame_2.jpg)
+
+![](anexos_relatorio/WireFrame_3.jpg)
+</details>
+
 <details><summary>Versões Anteriores</summary>
 
 ![](anexos_relatorio/Versões_1.png)
@@ -113,15 +122,6 @@
 ![](anexos_relatorio/Versões_13.png)
 ![](anexos_relatorio/Versões_14.png)
 
-</details>
-
-<details><summary>Esboços</summary>
-
-![](anexos_relatorio/WireFrame_1.jpg)
-
-![](anexos_relatorio/WireFrame_2.jpg)
-
-![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
 <details><summary>Wireframes</summary>
