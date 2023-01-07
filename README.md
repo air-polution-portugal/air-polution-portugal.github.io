@@ -14,9 +14,9 @@
 
 **Dados**
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
-<details><summary>Informação</summary>
+<!--<details><summary>Informação</summary>
 
-</details>
+</details>-->
 <br>
 
 **Biblioteca - P5js**
