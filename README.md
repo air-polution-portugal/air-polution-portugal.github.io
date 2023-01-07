@@ -181,12 +181,12 @@
     - [x] TextBoxes
     - [x] Organizar Particles - Point vs Line
   
-- [ ] Scene Intro - Particles (?)
+- [x] Scene Intro - Particles
 
 - [ ] PT vs EN (2 Versões?)
 
 - [ ] Slider
-    - [ ] Interação Pointer
+    - [x] Interação Pointer
     - [ ] Interação on MouseRelleased
 
 </details>
