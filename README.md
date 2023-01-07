@@ -105,6 +105,22 @@
 
 <br>
 
+[Um ecossistema POLÍTICO-EMPRESARIAL](https://pmcruz.com/eco/)
+![](anexos_relatorio/Referência_10.png)
+![](anexos_relatorio/Referência_10-1.png)
+
+ <br>
+ 
+[-cene](http://pmcruz.com/works/-cene.html)
+
+![](anexos_relatorio/Referência_11.png)
+
+<br>
+
+[Visualizing Empires Decline](http://pmcruz.com/works/visualizing-empires-decline.html)
+
+![](anexos_relatorio/Referência_12.png)
+
 </details>
 
 <details><summary>Esboços</summary>
