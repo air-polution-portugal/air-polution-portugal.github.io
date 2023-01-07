@@ -106,6 +106,7 @@
 <br>
 
 [Um ecossistema POLÍTICO-EMPRESARIAL](https://pmcruz.com/eco/)
+
 ![](anexos_relatorio/Referência_10.png)
 ![](anexos_relatorio/Referência_10-1.png)
 
