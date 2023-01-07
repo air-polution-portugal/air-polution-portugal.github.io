@@ -87,11 +87,21 @@
 
 <br>
 
-[Visualizing the Digits of Pi](https://www.youtube.com/watch?v=WEd_UIKG-uc&list=PLdmBHU4Jaa1j3S_FDImTyLgnHittN6XEI&index=32)
+<!-- [Visualizing the Digits of Pi](https://www.youtube.com/watch?v=WEd_UIKG-uc&list=PLdmBHU4Jaa1j3S_FDImTyLgnHittN6XEI&index=32)
 
 <br>
 
-![](anexos_relatorio/Referência_8.png)
+<!-- ![](anexos_relatorio/Referência_8.png)
+
+<br> -->
+
+[Institute of Fine Arts Dissertations](https://yining1023.github.io/IFA/projects/ifa-dissertation/)
+
+<br>
+
+![](anexos_relatorio/Referência_9.png)
+![](anexos_relatorio/Referência_9-1.png)
+
 
 <br>
 
