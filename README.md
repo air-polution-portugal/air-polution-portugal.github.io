@@ -19,7 +19,7 @@
 <br>
 
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
-
+<br>
 [Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
 
 [Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
