@@ -24,13 +24,7 @@
 <br>
 
 Papel e Papis: Esboços
-
-<br>
-
 Figma: Desenvolvimento de protótipo high fidelity
-
-<br>
-
 P5js: Elaboração do projeto interativo
 
 <br>
