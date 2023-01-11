@@ -24,13 +24,21 @@
 <br>
 
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
+
 [Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
+
 [Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
+
 [Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
+
 [Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
+
 [Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)
+
 [Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
+
 [Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
+
 [Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
 [Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
 [Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
