@@ -6,7 +6,10 @@
 
 **1995 -> 2020**
 
-<p> intro </p>
+<!--<p> O projeto XXX tem como propósito mostrar de forma interativa a intensidade carbónica em diversos setores de atividade em Portugal...
+
+O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor evoluiu ao longo de 25 anos (1995 - 2020), com a visualização conseguimos perceber quais foram os setores que aumentaram ou diminuiram a emissão(?) de dióxido de carbano e outros gases para a atmosfera </p>
+-->
 
 **Fonte de recolha de dados**
 <br>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
@@ -17,7 +20,6 @@
 
 <details><summary> Informação - Setores </summary>
 <br>
-
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
 [Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
