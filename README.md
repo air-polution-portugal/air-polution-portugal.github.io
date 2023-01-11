@@ -23,9 +23,9 @@
 <details><summary> Informação - Setores </summary>
 <br>
 
-<p>[Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)</p>
+[Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 
-<p>[Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)</p>
+[Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
 <p>[Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)</p>
 <p>[Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)</p>
 <p>[Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)</p>
