@@ -22,6 +22,13 @@
 <br>[here](https://c2js.org/) :)
 <br>
 
+**Tecnologias**
+<br>
+**Papel e Papis:** Esboços
+**Figma:** Desenvolvimento de protótipo high fidelity
+**P5js:** Elaboração do projeto interativo
+<br>
+
 <details><summary>Moodboard & Referências</summary>
 
 <br>
