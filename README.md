@@ -23,6 +23,7 @@
 <br>
 
 **Tecnologias**
+<details><summary></summary>
 <br>
 **Papel e Papis:** Esboços
 <br>
@@ -30,6 +31,7 @@
 <br>
 **P5js:** Elaboração do projeto interativo
 <br>
+</details>
 
 <details><summary>Moodboard & Referências</summary>
 
