@@ -18,14 +18,16 @@
 
 </details>-->
 
-**Biblioteca - P5js**
+**Biblioteca - C2.js**
 <br>[here](https://c2js.org/) :)
 <br>
 
 **Tecnologias**
 <br>
 **Papel e Papis:** Esboços
+<br>
 **Figma:** Desenvolvimento de protótipo high fidelity
+<br>
 **P5js:** Elaboração do projeto interativo
 <br>
 
