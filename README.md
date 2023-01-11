@@ -20,9 +20,35 @@
 <br>[here](https://c2js.org/) :)
 <br>
 
+<details><summary> Informação - Setores </summary>
+<br>
+
+<p>[Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)</p>
+<p>[Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)</p>
+<p>[Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)</p>
+<p>[Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)</p>
+<p>[Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)</p>
+<p>[Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)</p>
+<p>[Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)</p>
+<p>[Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)</p>
+<p>[Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)</p>
+<p>[Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)</p>
+<p>[Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)</p>
+<p>[Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)</p>
+<p>[Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)</p>
+<p>[Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)</p>
+<p>[Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)</p>
+<p>[Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)</p>
+<p>[Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)</p>
+<p>[Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)</p>
+
+<br>
+</details>
+
 <details><summary> Tecnologias </summary>
 <br>
 
+<p>Microsoft Excel: Tabela de informação </p>
 <p>Papel e Papis: Esboços</p>
 <p>Figma: Desenvolvimento de protótipo high fidelity </p>
 <p>P5js: Elaboração do projeto interativo </p>
