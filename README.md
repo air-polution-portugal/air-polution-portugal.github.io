@@ -12,13 +12,6 @@
 
 **Dados**
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
-<!--<details><summary>Informação</summary>
-
-</details>-->
-
-**Biblioteca - C2.js**
-<br>[here](https://c2js.org/) :)
-<br>
 
 <details><summary> Informação - Setores </summary>
 <br>
@@ -40,18 +33,31 @@
 [Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
 
 [Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
+
 [Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
+
 [Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
+
 [Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
+
 [Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
+
 [Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
+
 [Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)
+
 [Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
+
 [Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
+
 [Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
 
 <br>
 </details>
+
+**Biblioteca - C2.js**
+<br>[here](https://c2js.org/) :)
+<br>
 
 <details><summary> Tecnologias </summary>
 <br>
