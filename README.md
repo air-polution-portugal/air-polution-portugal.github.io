@@ -21,37 +21,37 @@
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
 [Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
-
+<br>
 [Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
-
+<br>
 [Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
-
+<br>
 [Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
-
+<br>
 [Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)
-
+<br>
 [Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
-
+<br>
 [Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
-
+<br>
 [Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
-
+<br>
 [Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
-
+<br>
 [Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
-
+<br>
 [Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
-
+<br>
 [Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
-
+<br>
 [Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
-
+<br>
 [Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)
-
+<br>
 [Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
-
+<br>
 [Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
-
+<br>
 [Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
 
 <br>
