@@ -23,9 +23,9 @@
 <details><summary> Tecnologias </summary>
 <br>
 
-Papel e Papis: Esboços
-Figma: Desenvolvimento de protótipo high fidelity
-P5js: Elaboração do projeto interativo
+<p>Papel e Papis: Esboços</p>
+<p>Figma: Desenvolvimento de protótipo high fidelity </p>
+<p>P5js: Elaboração do projeto interativo </p>
 
 <br>
 </details>
