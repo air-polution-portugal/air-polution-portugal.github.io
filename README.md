@@ -1,5 +1,3 @@
-
-
 <!--
 **air-polution-portugal/air-![]()polution-portugal**
 -->
@@ -22,14 +20,19 @@
 <br>[here](https://c2js.org/) :)
 <br>
 
-**Tecnologias**
-<details><summary></summary>
+<details><summary> Tecnologias </summary>
 <br>
-**Papel e Papis:** Esboços
+
+Papel e Papis: Esboços
+
 <br>
-**Figma:** Desenvolvimento de protótipo high fidelity
+
+Figma: Desenvolvimento de protótipo high fidelity
+
 <br>
-**P5js:** Elaboração do projeto interativo
+
+P5js: Elaboração do projeto interativo
+
 <br>
 </details>
 
