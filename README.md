@@ -24,6 +24,7 @@
 <br>
 
 <p>[Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)</p>
+
 <p>[Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)</p>
 <p>[Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)</p>
 <p>[Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)</p>
