@@ -20,6 +20,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 
 <details><summary> Informação - Setores </summary>
 <br>
+
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
 [Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
