@@ -17,7 +17,6 @@
 <!--<details><summary>Informação</summary>
 
 </details>-->
-<br>
 
 **Biblioteca - P5js**
 <br>[here](https://c2js.org/) :)
