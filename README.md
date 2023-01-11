@@ -18,7 +18,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 **Dados**
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
 
-<details><summary> Informação - Setores </summary>
+<details><summary> Info - Setores </summary>
 <br>
 
 [Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
