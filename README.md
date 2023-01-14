@@ -14,13 +14,23 @@ Developers:
     _Eduardo Vitorino | nº 3200337
 </p>
 
-<!--<p> O projeto “Intensidade Carbónica da Economia” tem como propósito mostrar de forma interativa a intensidade carbónica em diversos setores de atividade em Portugal.
+<!-- SUBSTITUIR CASO FAÇAMOS ALTERAÇÕES
+<!--<p> 
 
-O principal objetivo deste projeto é mostrar de forma interativa como cada setor evoluiu ao longo de 25 anos (1995 - 2020), com a visualização conseguimos perceber quais são os setores que aumentaram e diminuíram as emissões(?) carbónicas e outros gases para a atmosfera, identificando assim quais são os mais poluentes.
+O projeto Intensidade Carbónica da Economia - Portugal 1995-2020 tem como principal propósito/finalidade/objetivo criar uma visualização de dados interativa relativa à intensidade carbónica dos diversos setores de atividade económica em Portugal.
 
-A visualização baseia-se em um gráfico de partículas que são constituídas por linhas que nascem a partir do centro, as partículas podem aumentar ou diminuir o tamanho consoante a quantidade de gases imitidos durante o ano apresentado, este gráfico é acompanhado de um slider que serve para alterar o ano. Para iniciar a interação é necessário clicar em uma das diversas partículas, de seguida é mostrado uma breve descrição do setor juntamente com os dados referentes ao mesmo e a comparada com o valor anual acompanhado da percentagem, por fim, adicionamos um botão que mostra uma tabela numerada para saber exatamente onde se situa cada setor no gráfico, acompanhado do nome e valor emitido.
+Assim, parte-se de um conjunto de dados, (disponível aqui [<ins>https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477</ins>](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) ) referentes ao período entre 1995 e 2020, que indica “quanto dióxido de carbono e outros gases causadores do aquecimento global são emitidos, em toneladas, por cada milhão de euros de riqueza criada.
+
+O objetivo final desta visualização de dados é ilustrar, de forma visual, intuitiva e de fácil/rápida interpretação, de que forma é que a poluição causada por cada um destes setores foi evoluindo ao longo de 25 anos. Desta forma, é possível, ao utilizador, perceber que alguns setores extremamente poluentes em 1995 (nomeadamente o Setor Energético e  o de Captação, Tratamento e Distribuição de Água) são atualmente mais amigos do ambiente (eco-friendly); embora, em 2020 o setor mais poluente seja ainda o de Captação, Tratamento e Distribuição de Água. Através da identificação dos setores mais poluentes, o público/utilizador pode perceber onde/sobre que setores devem ser tomadas medidas com vista a reduzir a pegada ecológica.
+
+A visualização dos dados é construída para um ano de cada vez (anualmente?), dependendo da interação do utilizador, é então apresentado um conjunto de partículas (representadas por uma forma esférica/circular, com linhas que nascem do seu centro), cada uma representativa de um determinado setor de atividade económica. O tamanho da partícula é exponencialmente proporcional ao respetivo valor da intensidade carbónica do seu setor - quanto maior for a partícula, mais poluente é o setor.
+
+Em adição, o utilizador tem a oportunidade de selecionar cada partícula para obter informações mais pormenorizada sobre esse setor (como a percentagem de gases causadores do aquecimento global emitidos relativamente ao total anual). 
+
+Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), é ainda um work in progress, tratando-se de uma nova forma de interpretar e representar os dados originais, fazendo uso da tecnologia para os recodificar numa componente visual e interativa e intuitiva, de muito mais fácil leitura para o ser humano.
 
 </p>
+
 -->
 
 <!--<details><summary> Imagens - Interação </summary>
