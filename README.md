@@ -6,6 +6,12 @@
 
 <h4> Portugal | 1995 - 2020</h4>
 
+<p>
+Developers:
+    _Carolina Mendonça | nº 3200349
+    _Eduardo Vitorino | nº 3200337
+</p>
+
 <!--<p> O projeto “Intensidade Carbónica da Economia” tem como propósito mostrar de forma interativa a intensidade carbónica em diversos setores de atividade em Portugal.
 
 O principal objetivo deste projeto é mostrar de forma interativa como cada setor evoluiu ao longo de 25 anos (1995 - 2020), com a visualização conseguimos perceber quais são os setores que aumentaram e diminuíram as emissões(?) carbónicas e outros gases para a atmosfera, identificando assim quais são os mais poluentes.
@@ -81,8 +87,8 @@ A visualização baseia-se em um gráfico de partículas que são constituídas 
 <details><summary> Ferramentas </summary>
 <br>
 
-<p>Microsoft Excel: Tabela de informação </p>
-<p>Papel e Papis: Esboços</p>
+<p>Microsoft Excel: Tabela de dados</p>
+<p>Papel e Papis: Esboços e Wireframes</p>
 <p>Figma: Desenvolvimento de protótipo high fidelity </p>
 <p>P5js: Elaboração do projeto interativo </p>
 
