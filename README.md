@@ -9,6 +9,7 @@
 <p>
 Developers:
     _Carolina Mendonça | nº 3200349
+    <br>
     _Eduardo Vitorino | nº 3200337
 </p>
 
