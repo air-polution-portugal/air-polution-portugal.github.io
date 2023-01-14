@@ -81,7 +81,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 
  Key Workers
  <br>
-[Behance](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response) / [Vimeo](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
+ [Behance](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response) / [Vimeo](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
 
 ![](anexos_relatorio/Referência_3.jpg)
 
@@ -92,6 +92,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 Hearts and Minds
 <br>
 [Behance](https://www.behance.net/gallery/133409063/Hearts-and-minds) / [Vimeo](https://vimeo.com/657826393?embedded=true&source=vimeo_logo&owner=6931780)
+
 ![](anexos_relatorio/Referência_4.png)
 ![](anexos_relatorio/Referência_4-1.png)
 ![](anexos_relatorio/Referência_4-2.png)
@@ -101,6 +102,7 @@ Hearts and Minds
 The Mayors Dialogue on Growth and Solidarity
 <br>
 [Behance](https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity) / [Vimeo](https://vimeo.com/499241639?embedded=true&source=vimeo_logo&owner=6931780)
+
 ![](anexos_relatorio/Referência_5.png)
 ![](anexos_relatorio/Referência_5-1.png)
 
@@ -109,6 +111,7 @@ The Mayors Dialogue on Growth and Solidarity
 Noise Pollution
 <br>
 [Behance](https://www.behance.net/gallery/96908251/Noise-pollution)
+
 ![](anexos_relatorio/Referência_6.png)
 ![](anexos_relatorio/Referência_6-1.png)
 
@@ -117,6 +120,7 @@ Noise Pollution
 Energy Demand and the Rhythm of Everyday Life
 <br>
 [Behance](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life)
+
 ![](anexos_relatorio/Referência_1.png)
 ![](anexos_relatorio/Referência_1-1.png)
 
@@ -132,7 +136,6 @@ The Deepest Lakes
 
 Life in 2050 Ident
 [Vimeo](https://vimeo.com/10924639)
-<br>
 
 ![](anexos_relatorio/Referência_7.png)
 
@@ -149,7 +152,6 @@ Life in 2050 Ident
 Institute of Fine Arts Dissertations
 <br>
 [Behance](https://yining1023.github.io/IFA/projects/ifa-dissertation/) / [Site](https://yining1023.github.io/IFA/projects/ifa-dissertation/)
-<br>
 
 ![](anexos_relatorio/Referência_9.png)
 ![](anexos_relatorio/Referência_9-1.png)
@@ -157,25 +159,27 @@ Institute of Fine Arts Dissertations
 
 <br>
 
-[Um ecossistema POLÍTICO-EMPRESARIAL](https://pmcruz.com/eco/)
+Um ecossistema POLÍTICO-EMPRESARIAL
 <br>
-[here](https://pmcruz.com/eco/)
+[Site](https://pmcruz.com/eco/)
 
 ![](anexos_relatorio/Referência_10.png)
 ![](anexos_relatorio/Referência_10-1.png)
 
  <br>
  
-[-cene](http://pmcruz.com/works/-cene.html)
+ -cene
 <br>
-[here](http://pmcruz.com/works/-cene.html)
+[Site](http://pmcruz.com/works/-cene.html)
+
 ![](anexos_relatorio/Referência_11.png)
 
 <br>
 
-[Visualizing Empires Decline](http://pmcruz.com/works/visualizing-empires-decline.html)
+Visualizing Empires Decline
 <br>
-[here](http://pmcruz.com/works/visualizing-empires-decline.html)
+[Site](http://pmcruz.com/works/visualizing-empires-decline.html)
+
 ![](anexos_relatorio/Referência_12.png)
 
 </details>
