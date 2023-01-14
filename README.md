@@ -79,7 +79,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 
 <br>
 
- Key Workers
+Key Workers
  <br>
  [Behance](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response) / [Vimeo](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
 
@@ -135,6 +135,7 @@ The Deepest Lakes
 <br>
 
 Life in 2050 Ident
+<br>
 [Vimeo](https://vimeo.com/10924639)
 
 ![](anexos_relatorio/Referência_7.png)
