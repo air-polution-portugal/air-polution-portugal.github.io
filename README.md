@@ -33,43 +33,45 @@ A visualização baseia-se em um gráfico de partículas que são constituídas 
 <details><summary> Info - Setores </summary>
 <br>
 
-[Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
+[( 0 ) Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
-[Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
+[( 1 ) Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
 <br>
-[Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
+[( 2 ) Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
 <br>
-[Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
+[( 3 ) Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
 <br>
-[Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
+[( 4 ) Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
 <br>
-[Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)
+[( 5 ) Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)
 <br>
-[Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
+[( 6 ) Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
 <br>
-[Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
+[( 7 ) Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
 <br>
-[Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
+[( 8 ) Alojamento, Restauração e Similáres](https://eportugal.gov.pt/categorias-de-actividade/alojam-restaur)
 <br>
-[Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
+[( 9 ) Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
 <br>
-[Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
+[( 10 ) Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
 <br>
-[Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
+[( 11 ) Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
 <br>
-[Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
+[( 12 ) Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
 <br>
-[Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
+[( 13 ) Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
 <br>
-[Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)
+[( 14 ) Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
 <br>
-[Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
+[( 15 ) Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)
 <br>
-[Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
+[( 16 ) Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
 <br>
-[Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
+[( 17 ) Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
+<br>
+[( 18 ) Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
+<br>
 
-<br>
 </details>
 
 **Biblioteca - C2.js**
