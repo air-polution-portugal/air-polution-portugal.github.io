@@ -15,7 +15,8 @@ Developers:
 </p>
 
 <!-- SUBSTITUIR CASO FAÇAMOS ALTERAÇÕES-->
-<!--<p> 
+<!--
+<p>
 
 O projeto Intensidade Carbónica da Economia - Portugal 1995-2020 tem como principal propósito/finalidade/objetivo criar uma visualização de dados interativa relativa à intensidade carbónica dos diversos setores de atividade económica em Portugal.
 
