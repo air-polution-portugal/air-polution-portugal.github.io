@@ -64,7 +64,7 @@ O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor
 <br>[here](https://c2js.org/) :)
 <br>
 
-<details><summary> Tecnologias </summary>
+<details><summary> Ferramentas </summary>
 <br>
 
 <p>Microsoft Excel: Tabela de informação </p>
