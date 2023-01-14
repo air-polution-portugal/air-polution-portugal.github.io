@@ -6,10 +6,22 @@
 
 <h4> Portugal | 1995 - 2020</h4>
 
-<!--<p> O projeto XXX tem como propósito mostrar de forma interativa a intensidade carbónica em diversos setores de atividade em Portugal...
+<!--<p> O projeto “Intensidade Carbónica da Economia” tem como propósito mostrar de forma interativa a intensidade carbónica em diversos setores de atividade em Portugal.
 
-O principal objetivo deste projeto é mostrar de forma intuitiva como cada setor evoluiu ao longo de 25 anos (1995 - 2020), com a visualização conseguimos perceber quais foram os setores que aumentaram ou diminuiram a emissão(?) de dióxido de carbano e outros gases para a atmosfera </p>
+O principal objetivo deste projeto é mostrar de forma interativa como cada setor evoluiu ao longo de 25 anos (1995 - 2020), com a visualização conseguimos perceber quais são os setores que aumentaram e diminuíram as emissões(?) carbónicas e outros gases para a atmosfera, identificando assim quais são os mais poluentes.
+
+A visualização baseia-se em um gráfico de partículas que são constituídas por linhas que nascem a partir do centro, as partículas podem aumentar ou diminuir o tamanho consoante a quantidade de gases imitidos durante o ano apresentado, este gráfico é acompanhado de um slider que serve para alterar o ano. Para iniciar a interação é necessário clicar em uma das diversas partículas, de seguida é mostrado uma breve descrição do setor juntamente com os dados referentes ao mesmo e a comparada com o valor anual acompanhado da percentagem, por fim, adicionamos um botão que mostra uma tabela numerada para saber exatamente onde se situa cada setor no gráfico, acompanhado do nome e valor emitido.
+
+</p>
 -->
+
+<!--<details><summary> Imagens - Interação </summary>
+
+![](anexos_relatorio/Interação_1.png)
+
+![](anexos_relatorio/Interação_2.png)
+
+</details>-->
 
 **Fonte de recolha de dados**
 <br>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
@@ -221,7 +233,7 @@ Visualizing Empires Decline
 ![](anexos_relatorio/WireFrame_Figma_5.jpg)
 </details>
 
-<details><summary>To do List_(para um futuro próximo)_</summary>
+<details><summary>To do List (para um futuro próximo) </summary>
 
 - [x] Particles - Formato & Cores
 
