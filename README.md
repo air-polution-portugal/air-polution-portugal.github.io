@@ -6,14 +6,6 @@
 
 <h4> Portugal | 1995 - 2020</h4>
 
-<p>
-Developers:
-    <br>
-    _Carolina Mendonça | nº 3200349
-    <br>
-    _Eduardo Vitorino | nº 3200337
-</p>
-
 <!-- SUBSTITUIR CASO FAÇAMOS ALTERAÇÕES-->
 <!--
 <p>
@@ -294,4 +286,12 @@ Visualizing Empires Decline
     - [ ] Interação on MouseRelleased
 
 </details>-->
+
+<p>
+Developers:
+    <br>
+    _Carolina Mendonça | nº 3200349
+    <br>
+    _Eduardo Vitorino | nº 3200337
+</p>
 
