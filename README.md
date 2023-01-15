@@ -254,7 +254,7 @@ Visualizing Empires Decline
 ![](anexos_relatorio/WireFrame_Figma_5.jpg)
 </details>
 
-<details><summary>To do List (para um futuro próximo) </summary>
+<!--<details><summary>To do List (para um futuro próximo) </summary>
 
 - [x] Particles - Formato & Cores
 
@@ -293,5 +293,5 @@ Visualizing Empires Decline
     - [x] Interação Pointer
     - [ ] Interação on MouseRelleased
 
-</details>
+</details>-->
 
