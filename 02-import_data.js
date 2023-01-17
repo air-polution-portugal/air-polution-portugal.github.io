@@ -2,12 +2,17 @@
 
 function importData (new_slider_value)
 {
-  //SE EXISTIREM PARTICLES, ELIMINAR
+  //SE EXISTIREM PARTICLES, ELIMINAR - desktop
   if (world.particles.length > 0) 
   {
     elemento.removeParticles();
   }
   
+    //SE EXISTIREM PARTICLES, ELIMINAR - mobile
+  if (worldMobile.particles.length > 0) 
+  {
+    elementoMobile.removeParticles();
+  }
   
   //Nº ROW/ANO A SER IMPORTADO DEPENDE DO VALOR QUE O SLIDER DEVOLVE
   let row = slider_value;
@@ -38,13 +43,12 @@ function importData (new_slider_value)
       
       const total = tabela_dados.getNum(row, "total");
       
-      //console.log (agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
+      //console.log (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
       
       
-      //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA
+      //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - Desktop
       elemento = new Element (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
-      
-      //INCREMENTAR ROW E DAR RESET - (INTERAÇÃO PROVISÓRIA 'a')
-      //if (r<tabela_dados.getRowCount()-1) r++;
-      //else r = 0;
+  
+        //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - Mobile
+      elementoMobile = new ElementMobile (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
 }

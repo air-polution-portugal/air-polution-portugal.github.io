@@ -286,7 +286,9 @@ Visualizing Empires Decline
     - [ ] Interação on MouseRelleased
 
 </details>-->
+<!--<details><summary>Referências</summary>
 
+<details-->
 <p>
 Developers:
     <br>
