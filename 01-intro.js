@@ -131,7 +131,7 @@ function intro() {
     mouseIsPressed === true &&
     mouseIsReleased === true
   ) {
-      if (windowWidth > 450)
+      if (windowWidth > 420)
     {
       //MUDAR DE SCENE - DESKTOP
       scene_num = 2;
