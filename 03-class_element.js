@@ -311,7 +311,7 @@ class Element
     
     //frame - descrição setores
     fill(100, 0.25);
-    rect(x-margin,y-220,(x+w)-40,300,10)
+    rect(x-margin,y-220,(x+w)+10,300,10)
   }
   
   
