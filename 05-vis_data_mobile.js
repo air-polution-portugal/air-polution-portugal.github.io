@@ -18,7 +18,7 @@ function visDataMobile()
   
   //POSIÇÃO SLIDER
   const x = (width/2);
-  const y = (height/5)*4.2;
+  const y = (height/5)*4.6;
   const w = width/2;
   const h = 40;
   

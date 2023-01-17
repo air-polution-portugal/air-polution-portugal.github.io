@@ -141,7 +141,6 @@ class ElementMobile
      }
    }
   
-  
    
   //DESENHAR E UPDATE DE CADA PARTICLE
   drawElementMobile() 
@@ -251,9 +250,9 @@ class ElementMobile
     fill(100);
     textSize(22);
     textAlign(LEFT);
-    let x = width/9;
-    let y = height/4;
-    let w = textWidth(this.label_setores[i]);
+    let x = width/12;
+    let y = (height/6)+20;
+    let w = textWidth(this.label_setores[i] + this.setores[i] + ' t  of  ' + this.total + ' t annual total' + line);
     let space = 100;
     
     
@@ -262,7 +261,7 @@ class ElementMobile
     //console.log(w);
     
     //DEFINIR LARGURA TEXT BOX
-    let t_max_width = (w-space)/2;
+    let t_max_width = (w-space)/3;
     
     //CALCULAR A PERCENTAGEM DE UM SETOR RELATIVAMENTE AO TOAL ANUAL
     let percentagem = (this.setores[i]*100) / this.total;
@@ -275,19 +274,19 @@ class ElementMobile
     text("SETOR", x+10, y); 
     
     stroke(150);
-    line(x+10, y + 15, (t_max_width)+125, y + 15);
+    line(x+10, y + 15, 300 , y + 15);
     
     //LABLE SETOR
     noStroke();
     textSize(20);
     textAlign(TOP,LEFT);
-    text(this.label_setores[i], x+10, y + 50, 225);
+    text(this.label_setores[i], x+10, y + 50, 250);
     
     
     //DESCRIÇÃO
     y+=125;
     stroke(150);
-    line(x+10, y, (t_max_width)+125, y);
+    line(x+10, y, 300, y);
     
     noStroke();
     textSize(12);
@@ -295,24 +294,33 @@ class ElementMobile
 
     text("ABOUT", x+10, y+10);
     rectMode(CORNER);
-    text(this.about_setores[i], (x+space)-30, y+10, (t_max_width)-15);
+    text(this.about_setores[i], (x+space)-30, y+10, 200);
     //console.log(w, t_max_width);
     
     
     //VALORES
-    y += 175;
+    y += 125;
     stroke(150);
-    line(x+10, y, (t_max_width)+125, y);
+    line(x+10, y, 300, y);
     
     noStroke();
     text("VALUE", x+10, y+10);
     text(this.setores[i] + ' t  of  ' + this.total + ' t annual total', (x+space)-30, y+10,(t_max_width)+150);
     text( percentagem + " %", (x+space)-30, y+30);
     
+    // Tamanho do frame
+    let h_frame = 310;
+    let w_frame = 280;
+    let y_frame = y-260;
+    let x_frame = x;
+    
     //frame
     fill(100, 0.25);
-    rect(x,y-320,(x+w)/2+30,380,10)
+    rect(x_frame, y_frame, w_frame, h_frame, 10)
+    
+    
   }
+  
     
   //LEGENDA GERAL DAS PARTICLES - MOUSE PRESSED
   mostrar_legendaMobile()
@@ -339,7 +347,7 @@ class ElementMobile
       let x_box = (width/12)-30;
       let y_box = height/8;
       let w_box = x_box + width-20;
-      let h_box = 625;
+      let h_box = 500;
       let margin = 20;
             
       rectMode(CORNER);
@@ -362,10 +370,10 @@ class ElementMobile
       
       //IDENTIFICAÇÃO DAS PARTICLES
       //LABELS
-      let text_size = 12;
+      let text_size = 10;
       let raio = text_size-3;
       let x = x_box+margin;
-      let y = y_box+50;
+      let y = y_box+70;
       
 
         //PARA CADA PARTICLE
@@ -387,29 +395,29 @@ class ElementMobile
           textSize(text_size);
 
           //NOME SETOR
-          text(this.label_setores[i], x + raio*2.5, y);
+          text(this.label_setores[i], x + raio*2.5, y-15);
 
           //VALOR SETOR
           let text_width = textWidth(this.label_setores[i]);
-          text(' | Value: '+ this.setores[i], x + text_width + raio*4, y);
+          text(' | Value: '+ this.setores[i], x + text_width + raio*3, y-15);
 
 
           fill('#DC388B');
-          ellipse(x+raio, y+3.5, raio);
+          ellipse(x+raio, y-13.5, raio);
 
           //Nº PARTICLE (TABELA)
           textAlign(CENTER, CENTER);
           fill(100);
-          text([i], x+ raio, y);
+          text([i], x+ raio, y-15);
 
-          y += 30;
+          y += 22;
 
           //2ª COLUNA DE LABELS
-          /*if(i === (this.setores.length/2)-1)
+          if(i === (this.setores.length/2)-1)
           {
             x = x_box+margin + 250;
             y = y_box+80;
-          }*/
+          }
 
           this.setor_selecionado = -1;
         }
