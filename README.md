@@ -33,9 +33,7 @@
 <details><summary> Sketches </summary>
 
 ![](anexos_relatorio/WireFrame_1.jpg)
-
 ![](anexos_relatorio/WireFrame_2.jpg)
-
 ![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
@@ -76,20 +74,19 @@ P5.js: Code
 ![](anexos_relatorio/como_utilizar_4.jpg)
 ![](anexos_relatorio/como_utilizar_5.jpg)
 
-<br>
-
 </details>
 
 <details><summary>Style Guide</summary>
 
 ![](anexos_relatorio/style_guide.jpg)
 
-<br>
 </details>
 
 <details><summary> Data </summary>
 <br>
+
 [Data source](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477)
+
 <br>
 
 [Data table](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv)
