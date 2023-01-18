@@ -50,8 +50,6 @@
 
 <details><summary> Process </summary>
 
-<br>
-
 ![](anexos_relatorio/sequencia.gif)
 
 <br>
@@ -87,8 +85,6 @@ P5.js: Code
 </details>
 
 <details><summary>Style Guide</summary>
-
-<br>
 
 ![](anexos_relatorio/style_guide.jpg)
 
@@ -152,6 +148,8 @@ P5.js: Code
 <br>
 
 CRUZ, Pedro & SHIBUYA, Felipe.(n.d.) _[] cene_. [Here]([<ins>http://pmcruz.com/works/-cene.html</ins>](http://pmcruz.com/works/-cene.html));
+
+<br>
 
 CRUZ, Pedro. _Visualizing Empires Decline_.(n.d.) [Here](http://pmcruz.com/works/visualizing-empires-decline.html);
 
