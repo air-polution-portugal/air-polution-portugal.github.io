@@ -80,12 +80,23 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <details><summary> Tools </summary>
 <br>
 
-<p>Microsoft Excel: Table Data</p>
-<p>Papel e Papis: Sketches - Wireframes</p>
-<p>Figma: High-fidelity prototype </p>
-<p>P5js: Code </p>
+Microsoft Excel: Table Data
 
-<p> [Library - C2.js](https://c2js.org/) </p>
+<br>
+
+Paper and Pencil: Sketches - Wireframes
+
+<br>
+
+Figma: High-fidelity prototype
+
+<br>
+
+P5js: Code
+
+<br>
+
+[Library - C2.js](https://c2js.org/)
 
 <br>
 </details>
