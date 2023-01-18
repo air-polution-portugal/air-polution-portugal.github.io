@@ -33,8 +33,6 @@
 
 <details><summary>Moodboard</summary>
 
-<br>
-
 ![](anexos_relatorio/moodboard.jpg)
 
 <br>
