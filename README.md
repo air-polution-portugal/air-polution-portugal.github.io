@@ -2,36 +2,130 @@
 **air-polution-portugal/air-![]()polution-portugal**
 -->
 
-<h1>Intensidade Carbónica da Economia</h1>
+<h1>Carbon Intensity of the Economy</h1>
 
-<h4> Portugal | 1995 - 2020</h4>
+<h2> Portugal | 1995 - 2020</h2>
 
-<!-- SUBSTITUIR CASO FAÇAMOS ALTERAÇÕES-->
-<!--
+
+<h3> About </h3>
 <p>
-
-O projeto Intensidade Carbónica da Economia - Portugal 1995-2020 tem como principal propósito/finalidade/objetivo criar uma visualização de dados interativa relativa à intensidade carbónica dos diversos setores de atividade económica em Portugal.
-
-Assim, parte-se de um conjunto de dados, (disponível aqui [<ins>https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477</ins>](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) ) referentes ao período entre 1995 e 2020, que indica “quanto dióxido de carbono e outros gases causadores do aquecimento global são emitidos, em toneladas, por cada milhão de euros de riqueza criada.
-
-O objetivo final desta visualização de dados é ilustrar, de forma visual, intuitiva e de fácil/rápida interpretação, de que forma é que a poluição causada por cada um destes setores foi evoluindo ao longo de 25 anos. Desta forma, é possível, ao utilizador, perceber que alguns setores extremamente poluentes em 1995 (nomeadamente o Setor Energético e  o de Captação, Tratamento e Distribuição de Água) são atualmente mais amigos do ambiente (eco-friendly); embora, em 2020 o setor mais poluente seja ainda o de Captação, Tratamento e Distribuição de Água. Através da identificação dos setores mais poluentes, o público/utilizador pode perceber onde/sobre que setores devem ser tomadas medidas com vista a reduzir a pegada ecológica.
-
-A visualização dos dados é construída para um ano de cada vez (anualmente?), dependendo da interação do utilizador, é então apresentado um conjunto de partículas (representadas por uma forma esférica/circular, com linhas que nascem do seu centro), cada uma representativa de um determinado setor de atividade económica. O tamanho da partícula é exponencialmente proporcional ao respetivo valor da intensidade carbónica do seu setor - quanto maior for a partícula, mais poluente é o setor.
-
-Em adição, o utilizador tem a oportunidade de selecionar cada partícula para obter informações mais pormenorizada sobre esse setor (como a percentagem de gases causadores do aquecimento global emitidos relativamente ao total anual). 
-
-Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), é ainda um work in progress, tratando-se de uma nova forma de interpretar e representar os dados originais, fazendo uso da tecnologia para os recodificar numa componente visual e interativa e intuitiva, de muito mais fácil leitura para o ser humano.
-
+    The Carbon Intensity of the Economy - Portugal 1995-2020 project's main purpose is to provide an interactive data visualization of the carbon intensity of all economic sectors in Portugal. The project's dataset \[1\] relates to the period between 1995 and 2020, which indicates "how much carbon dioxide and other greenhouse gasses are emitted, in tons, for each million euros of wealth created" (PORDATA 2022). The ultimate goal of this project is to reveal, in a visual, intuitive, explanatory and interactive way, how the pollution levels caused by each of these sectors has evolved over 25 years. Thus, it is possible for the user to understand that some extremely polluting sectors in 1995 (namely the Energy Sector and the Water Capture, Treatment and Distribution Sector) are currently more eco-friendly; although, in 2020, the most polluting sector is still the Water Capture, Treatment and Distribution Sector. Through the identification of the most polluting sectors, the user can understand which sectors should be taken into account to reduce the ecological footprint. This visualization presentes its data one year at a time (depending on the user's interaction). A set of particles (represented by a circular shape, with lines emanating from its center) are then created, each one representative of an economic sector. The size of the particle is exponentially proportional to the respective value of the carbon intensity of its sector - the bigger the particle, the more polluting the sector is. In addition, the user has the opportunity to select each particle to obtain more detailed information about the selected sector (such as the percentage of greenhouse gasses emitted relative to the annual total). This data visualization, fully developed in p5.js (JavaScript), introduces a new way of interpreting and representing the data, It recodes the set of numeric values (data), into a visual, interactive and explainable narrative.
 </p>
 
--->
+<h3> Contextualization </h3>
+<p>
+    As the world hurtles towards a point of no return with regards to climate change and its effects on the planet, it becomes increasingly vital for us to acknowledge the impact of human activity on the environment. The release of chemical compounds into the atmosphere leads to air pollution and alters the natural chemical makeup of the air. The effects of these emissions vary based on the substances released, the amount released, and external factors such as weather and geography. Among various other sources of atmospheric pollutants, human activities are a major contributor to the significant negative impact on the environment.
+    <br>
+    The quality of the air we breathe, and subsequently our health, is directly affected by this issue, making it imperative to understand the role of the Portuguese economy in contributing to it. In order to take effective action, it's crucial to identify which sectors of the economy have the most detrimental effects on the environment and focus on developing measures to combat greenhouse gas emissions.
+    <br>
+    <br>
+    The data presented below covers all Portuguese economic sectors between 1995 and 2020, allowing the user to understand, for each economic sector, the number of tons of carbon dioxide and other greenhouse gases emitted per million euros of wealth generated.
+    <br>
+    This data visualization encourages the user to view and interpret the data in a more intuitive, interactive, and exploratory way.
+</p>
 
-**Info - Data**
-<br>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
+<details><summary>Moodboard</summary>
+
 <br>
 
-**Table - Data**
-<br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
+![](anexos_relatorio/moodboard.jpg)
+
+<br>
+
+</details>
+
+<details><summary> Sketches </summary>
+
+![](anexos_relatorio/WireFrame_1.jpg)
+
+![](anexos_relatorio/WireFrame_2.jpg)
+
+![](anexos_relatorio/WireFrame_3.jpg)
+</details>
+
+<details><summary>Wireframes</summary>
+
+![](anexos_relatorio/WireFrame_Figma_1.jpg)
+![](anexos_relatorio/WireFrame_Figma_2.jpg)
+![](anexos_relatorio/WireFrame_Figma_3.jpg)
+![](anexos_relatorio/WireFrame_Figma_4.jpg)
+![](anexos_relatorio/WireFrame_Figma_5.jpg)
+</details>
+
+<details><summary> Process </summary>
+
+<br>
+
+![](anexos_relatorio/sequencia.gif)
+
+<br>
+
+</details>
+
+<details><summary> Tools </summary>
+<br>
+
+Microsoft Excel: Data Table
+
+<br>
+
+Paper and Pencil: Sketches
+
+<br>
+
+Figma: High-fidelity prototype (Wireframes)
+
+<br>
+
+P5.js: Code
+
+<br>
+
+[Library - C2.js](https://c2js.org/)
+
+<br>
+</details>
+
+<details><summary>How to use</summary>
+
+![](anexos_relatorio/como_utilizar_1.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_2.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_3.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_4.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_5.jpg)
+
+<br>
+
+</details>
+
+<details><summary>Style Guide</summary>
+
+<br>
+
+![](anexos_relatorio/style_guide.jpg)
+
+<br>
+</details>
+
+<details><summary> Data </summary>
+<br>
+[Data source](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477)
+<br>
+
+[Data table](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv)
+</details>
 
 <details><summary> Info Sectors </summary>
 <br>
@@ -77,126 +171,27 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 
 </details>
 
-<details><summary> Tools </summary>
-<br>
-
-Microsoft Excel: Table Data
-
-<br>
-
-Paper and Pencil: Sketches - Wireframes
-
-<br>
-
-Figma: High-fidelity prototype
-
-<br>
-
-P5js: Code
-
-<br>
-
-[Library - C2.js](https://c2js.org/)
-
-<br>
-</details>
-
-<details><summary>Style Guide</summary>
-
-<br>
-
-![](anexos_relatorio/style_guide.jpg)
-
-<br>
-
-![](anexos_relatorio/cores.jpg)
-
-<br>
-</details>
-
-<details><summary>Moodboard</summary>
-
-<br>
-
-![](anexos_relatorio/moodboard.jpg)
-<br>
-</details>
-
-<details><summary>How to use</summary>
-
-![](anexos_relatorio/como_utilizar_1.jpg)
-
-<br>
-
-![](anexos_relatorio/como_utilizar_2.jpg)
-
-<br>
-
-![](anexos_relatorio/como_utilizar_3.jpg)
-
-<br>
-
-![](anexos_relatorio/como_utilizar_4.jpg)
-
-<br>
-
-![](anexos_relatorio/como_utilizar_5.jpg)
-
-<br>
-
-</details>
-
-<details><summary> Sketches </summary>
-
-![](anexos_relatorio/WireFrame_1.jpg)
-
-![](anexos_relatorio/WireFrame_2.jpg)
-
-![](anexos_relatorio/WireFrame_3.jpg)
-</details>
-
-<details><summary>Sequence - Old Version</summary>
-
-<br>
-
-![](anexos_relatorio/sequencia.gif)
-
-<br>
-
-</details>
-
-<details><summary>Wireframes</summary>
-
-![](anexos_relatorio/WireFrame_Figma_1.jpg)
-![](anexos_relatorio/WireFrame_Figma_2.jpg)
-![](anexos_relatorio/WireFrame_Figma_3.jpg)
-![](anexos_relatorio/WireFrame_Figma_4.jpg)
-![](anexos_relatorio/WireFrame_Figma_5.jpg)
-</details>
-
-</details>
-<details><summary>Referências</summary>
 
 <details><summary> References </summary>
 <br>
 
-- FRAGAPANE, Federica & PIACENTINI, Alex. (2020). Hearts and minds. Behance. [<ins>https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response</ins>](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response)
+- CRUZ, Pedro & SHIBUYA, Felipe.(n.d.) _[] cene_. [Here]([<ins>http://pmcruz.com/works/-cene.html</ins>](http://pmcruz.com/works/-cene.html));
 
 <br>
 
-- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). Coding Challenge #123.1: Polar Perlin Noise Loops. Behance. [<ins>https://www.behance.net/gallery/133409063/Hearts-and-minds</ins>](https://www.behance.net/gallery/133409063/Hearts-and-minds);
+- CRUZ, Pedro. _Visualizing Empires Decline_.(n.d.) [Here](http://pmcruz.com/works/visualizing-empires-decline.html);
 
 <br>
 
-- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). The Mayors Dialogue on Growth and Solidarity. Behance. [<ins>https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity</ins>](https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity);
+- CRUZ, Pedro & WIHBEY, John & GHAEL, Avni & SHIBUYA, Felipe. Simulated Dendrochronology of U.S. immigration.(n.d.) [Here](https://pmcruz.com/dendrochronology/);
 
 <br>
 
-- FRAGAPANE, Federica. (2020). Noise pollution. Behance. [<ins>https://www.behance.net/gallery/96908251/Noise-pollution</ins>](https://www.behance.net/gallery/96908251/Noise-pollution);
+- CRUZ, Pedro. Um ecossistema POLÍTICO-EMPRESARIAL. [Here](https://pmcruz.com/eco/);
 
 <br>
 
-- FRAGAPANE, Federica. (2022).Energy demand and the rhythm of everyday life. Behance. [<ins>https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life</ins>](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life);
+- FRAGAPANE, Federica. (2022)._Energy demand and the rhythm of everyday life_. Behance. [Here](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life);
 
 <br>
 
@@ -223,6 +218,12 @@ P5js: Code
 - CRUZ, Pedro.  Visualizing Empires Decline. Site. [<ins>http://pmcruz.com/works/visualizing-empires-decline.html</ins>](http://pmcruz.com/works/visualizing-empires-decline.html);
 
 <br>
+
+- PEARSON, Matt. (2011). Generative Art - a pratical guide using processing. Manning Publications;
+
+<br>
+
+- SHIFFMAN, Daniel. (2019, fevereiro, 25). Coding Challenge #123.1: Polar Perlin Noise Loops. Youtube. https://www.youtube.com/watch?v=ZI1dmHv3MeM;
 
 </details>
 
