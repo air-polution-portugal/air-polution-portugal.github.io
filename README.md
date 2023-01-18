@@ -87,8 +87,6 @@ P5.js: Code
 
 [Data source](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477)
 
-<br>
-
 [Data table](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv)
 </details>
 
