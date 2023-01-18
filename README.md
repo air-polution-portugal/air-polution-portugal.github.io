@@ -224,13 +224,9 @@ VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yi
 <br>
 
 **Developers:**
-
-<p>
     
     [Carolina Mendonça](https://www.carolinaiam.com/)
     
     [Eduardo Vitorino](https://www.behance.net/dmeduardofilipe)
    
-    
-</p>
 
