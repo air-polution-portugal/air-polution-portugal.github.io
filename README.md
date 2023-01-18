@@ -221,7 +221,9 @@ VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yi
 
 </details>
 
-<h3> Developers </h3>
+<br>
+
+<h4> Developers </h4>
 <p>
     Carolina Mendonça | nº3200349
     <br>
