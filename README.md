@@ -84,6 +84,7 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <p>Papel e Papis: Sketches - Wireframes</p>
 <p>Figma: High-fidelity prototype </p>
 <p>P5js: Code </p>
+
 <p> [Library - C2.js](https://c2js.org/) </p>
 
 <br>
