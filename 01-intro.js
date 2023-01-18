@@ -1,10 +1,4 @@
-//1ª INFO QUE O USER VÊ QUANDO ABRE O PROJETO - CONTEXTUALIZAÇÃO DO PROJETO
-
-
-//VARIÁVEIS PARA ARMAZENAR O TEXTO
-let titulo = "título :)";
-let about =
-  "Descrição - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non commodo lorem, gravida vehicula dolor. In gravida interdum euismod. Etiam molestie risus dui. Pellentesque porta leo vel erat sodales, ac malesuada orci ultricies. Vestibulum non augue pellentesque, tincidunt dui quis, pulvinar erat. Nulla facilisis sit amet nulla sit amet bibendum.";
+//1ª INTRODUÇÃO À VISUALIZAÇÃO
 
 
 //CÍRCULOS INTRO
@@ -53,20 +47,14 @@ class Agent extends c2.Circle {
   }
 
   
-  //DESENHAR CIRCULOS
-  display() {
-    /* DEFAULT -CIRCULOS
-      noStroke();
-      fill(this.color);
-      circle(this.p.x, this.p.y, this.r);
-      */
-
-    //DESENHAR UMA ELLIPSE ATRAVÉS DE PONTOS!
+  //PARTICLES - ELLIPSES ATRAVÉS DE PONTOS
+  display()
+  {
     //CENTRO DA ELLIPSE
     let centerX = this.p.x;
     let centerY = this.p.y;
 
-    //VARIÁVEIS PARA DESENHAR A ELLIPSE ATRAVÉS DE PONTOS (OUTROS PONTOS)
+    //(OUTROS PONTOS)
     let x, y;
     let lastX = -999;
     let lastY = -999;
@@ -129,9 +117,10 @@ function intro() {
     mouseY >= y - h / 2 &&
     mouseY <= y + h / 2 &&
     mouseIsPressed === true &&
-    mouseIsReleased === true
-  ) {
-      if (windowWidth > 420)
+    mouseIsReleased === true)
+  {
+    //SCENE DEPENDE DO TAMANHO DO ECRÃ
+    if (windowWidth > 450)
     {
       //MUDAR DE SCENE - DESKTOP
       scene_num = 2;

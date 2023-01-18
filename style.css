@@ -13,7 +13,7 @@ body
   overflow: hidden;
 
   background-color: #282E36;
-  color: rgb(255, 255, 255);
+  color: #fff;
 }
   
 section 
@@ -35,11 +35,11 @@ section section
   width:  100%;
   height: 100%;
 
-  display: grid;
-  place-items: center center;
+  /*display: grid;
+  place-items: center center;*/
 }
 
-section section main 
+section main 
 {
   width:  100%;
   height: 100%;
@@ -54,6 +54,50 @@ canvas
   place-items: center center;
 }
 
+
+.div_intro{
+  padding-top: 10vh;
+  padding-bottom: 5vh;
+  font-family:'Merriweather', serif;
+  text-align:center;
+}
+
+h1{
+  font-size: 22px;
+  margin-bottom:10px;
+  font-style: italic;
+}
+
+h2{
+  font-size: 16px;
+  text-transform: uppercase;
+}
+
+
+.about
+{
+  font-family:'Lato', sans-serif;
+  font-size: 14px;
+  text-align: justify;
+}
+
+
+.line
+{
+  background-color: #fff;
+  padding: 0.2px;
+}
+
+
+.line, .about
+{
+  width: 900px;
+  margin: auto;
+  margin-top: 20px;
+}
+
+
+/*BOTÃO SCROLL DOWN*/
 #btn_down 
 {
   position:fixed;
@@ -62,32 +106,33 @@ canvas
   text-align: center;
 }
 
- .descricao{
-  margin-right: 10%;
-  margin-left: 10%;
-  margin-top: 20px;
-/*   margin-bottom: 10%; */
-   
-  text-align: left;
-  font-size: 14px;
-}
-
-.div_intro{
-  text-align:center;
-}
-
-
-.footer{
-  
-  height: 20%;
-  text-align: center;  
-}
-
 a{
   color:#dc388b;
 }
 
 img{
-  width: 40px;
-  height: 40px;
+  width: 50px;
+  height: 50px;
+}
+
+/*IMAGEM PARTICLE*/
+#particle
+{
+  position: absolute;
+  z-index: -1;
+  
+  right: 0px;
+  bottom: 0px;
+  
+  width: 20vw;
+  height: auto;
+}
+
+
+.footer{
+  background-color: #282E36;
+  height: 10vh;
+  margin-left:20px;
+  font-family:'Lato', sans-serif;
+  line-height: 22px;
 }

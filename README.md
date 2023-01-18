@@ -41,46 +41,46 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 **Dados**
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
 
-<details><summary> Info - Setores </summary>
+<details><summary> Info - Sectors </summary>
 <br>
 
-[( 0 ) Setor Primário](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
+[( 0 ) Primary Sector](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
-[( 1 ) Indústrias Extrativas](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
+[( 1 ) Extractive Industries](https://eportugal.gov.pt/categorias-de-actividade/extrativas)
 <br>
-[( 2 ) Indústrias Transformadoras](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
+[( 2 ) Manufacturing](https://eportugal.gov.pt/categorias-de-actividade/transformadoras)
 <br>
-[( 3 ) Setor Energético](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
+[( 3 ) Energy](https://eportugal.gov.pt/categorias-de-actividade/elet-gas-vap-quen-frio)
 <br>
-[( 4 ) Captação, Tratamento e Distribuição de Água](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
+[( 4 ) Water Capture, Treatment and Distribution](https://www.gee.gov.pt/pt/lista-publicacoes/estatisticas-setoriais/e-captacao-tratamento-e-distribuicao-de-agua-saneamento-gestao-de-residuos-e-despoluicao/36-captacao-tratamento-e-distribuicao-de-agua)
 <br>
-[( 5 ) Construção](https://eportugal.gov.pt/categorias-de-actividade/construcao)
+[( 5 ) Construction](https://eportugal.gov.pt/categorias-de-actividade/construcao)
 <br>
-[( 6 ) Comércio](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
+[( 6 ) Tertiary Sector](https://eportugal.gov.pt/categorias-de-actividade/grossis-retalho-repar-auto-moto)
 <br>
-[( 7 ) Transportes e Armazenagem](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
+[( 7 ) Transport and Storage](https://eportugal.gov.pt/categorias-de-actividade/transporte-armazenam)
 <br>
-[( 8 ) Alojamento, Restauração e Similáres](https://eportugal.gov.pt/categorias-de-actividade/alojam-restaur)
+[( 8 ) Housing and Catering](https://eportugal.gov.pt/categorias-de-actividade/alojam-restaur)
 <br>
-[( 9 ) Atividades de Informação e de Comunicação](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
+[( 9 ) Information and Communication](https://eportugal.gov.pt/categorias-de-actividade/inform-comunic)
 <br>
-[( 10 ) Atividades Financeiras e de Seguros](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
+[( 10 ) Financial and Insurance Activities](https://eportugal.gov.pt/categorias-de-actividade/financeiro)
 <br>
-[( 11 ) Atividades Imobiliárias](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
+[( 11 ) Real Estate Activities](https://eportugal.gov.pt/categorias-de-actividade/imobiliario)
 <br>
-[( 12 ) Atividades de Consultoria, Científicas, Técnicas e Similares](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
+[( 12 ) Consulting, Scientific, Technical](https://eportugal.gov.pt/categorias-de-actividade/consult-cient-tecnic-similar)
 <br>
-[( 13 ) Atividades Administrativas e dos Serviços de Apoio](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
+[( 13 ) Administrative and Support Service Activities](https://eportugal.gov.pt/categorias-de-actividade/admin-apoio)
 <br>
-[( 14 ) Administração Pública e Defesa, e Segurança Social obrigatória](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
+[( 14 ) Public Administration](https://dados.gov.pt/pt/datasets/administracao-publica-e-defesa-seguranca-social-obrigatoria/)
 <br>
-[( 15 ) Educação](https://eportugal.gov.pt/categorias-de-actividade/educacao)
+[( 15 ) Education](https://eportugal.gov.pt/categorias-de-actividade/educacao)
 <br>
-[( 16 ) Atividades de Saúde Humana e Apoio Social](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
+[( 16 ) Human Health Activities and Social Support](https://eportugal.gov.pt/categorias-de-actividade/saude-apoiosocial)
 <br>
-[( 17 ) Atividades Artísticas, de Espetáculos, Desportivas e Recreativas](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
+[( 17 ) Arts, Entertainment, Sports](https://eportugal.gov.pt/categorias-de-actividade/arte-desp-recreacao)
 <br>
-[( 18 ) Outras Atividades de Serviços](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
+[( 18 ) Other Services](https://eportugal.gov.pt/categorias-de-actividade/outros-servpessoais)
 <br>
 
 </details>
@@ -89,13 +89,14 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <br>[here](https://c2js.org/) :)
 <br>
 
-<details><summary> Ferramentas </summary>
+<details><summary> Tools </summary>
 <br>
 
 <p>Microsoft Excel: Tabela de dados</p>
 <p>Papel e Papis: Esboços e Wireframes</p>
 <p>Figma: Desenvolvimento de protótipo high fidelity </p>
 <p>P5js: Elaboração do projeto interativo </p>
+<p>[Library - C2.js](https://c2js.org/)</p>
 
 <br>
 </details>
@@ -287,7 +288,17 @@ Visualizing Empires Decline
 
 </details>-->
 <!--<details><summary>Referências</summary>
+**
 
+References:
+
+\- PEARSON, Matt. (2011). Generative Art - a pratical guide using processing. Manning Publications;
+
+\- SHIFFMAN, Daniel. (2019, fevereiro, 25). Coding Challenge #123.1: Polar Perlin Noise Loops. Youtube. https://www.youtube.com/watch?v=ZI1dmHv3MeM;
+
+\- SHOEMAKER, Maxin. (2021, fevereiro, 21). Creative Coding Tutorial: Golden Ratio Sunflower Spiral in P5.js (Javascript). Youtube. https://www.youtube.com/watch?v=RrSOv9FH6uo&t=496s;
+
+**
 <details-->
 <p>
 Developers:

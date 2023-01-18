@@ -1,7 +1,7 @@
-//  !!!  DESKTOP !!!
+//  !!!  MOBILE !!!
 
 //CRIAR CLASS DE ELEMENTOS
-class Element
+class ElementMobile
 {
    //VALORES QUE A CLASS RECEBE
    constructor(year_num, agricultura_value, 
@@ -157,14 +157,14 @@ class Element
        p.cor_rosa = color ('#DC388B');
        
        //ADICIONAR A NOVA PARTICLE AO MUNDO
-       world.addParticle(p);
+       worldMobile.addParticle(p);
      }
    }
   
   
    
   //DESENHAR E UPDATE DE CADA PARTICLE
-  drawElement() 
+  drawElementMobile() 
   {
     //VERIFICAR SE ALGUMA PARTICLE ESTÁ SELECIONADA
     this.checkClick();
@@ -179,7 +179,7 @@ class Element
       //SE A PARTICLE NÃO ESTÁ SELECIONA (DEFAULT) ---> AZUL
       if (this.setor_selecionado != i) 
       {
-        stroke(world.particles[i].cor_azul);
+        stroke(worldMobile.particles[i].cor_azul);
       }
       else
       
@@ -187,15 +187,15 @@ class Element
       if (this.setor_selecionado === i) 
       {
         this.drawTootip(i);
-        stroke(world.particles[i].cor_rosa);
+        stroke(worldMobile.particles[i].cor_rosa);
       }
       
       
       //DESENHAR PARTICLES PARA CADA SETOR
       //(ELLIPSE ATRAVÉS DE PONTOS)
       //CENTRO DA ELLIPSE
-      let centerX = world.particles[i].position.x;
-      let centerY = world.particles[i].position.y;
+      let centerX = worldMobile.particles[i].position.x;
+      let centerY = worldMobile.particles[i].position.y;
 
       //(OUTROS PONTOS)
       let x, y;
@@ -212,8 +212,8 @@ class Element
           //RAIO = HIPOTENUSA ENTRE CENTRO DA ELLIPSE E UM PONTO DA ELLIPSE
           //SINE OF ANGLE x = OPPOSITE OVER HYPOTENUSE
           //COSINE OF ANGLE x = ADJACENT OVER HYPOTENUSE
-        x = centerX + (world.particles[i].radius * cos(rad) );
-        y = centerY + (world.particles[i].radius * sin(rad) );
+        x = centerX + (worldMobile.particles[i].radius * cos(rad) );
+        y = centerY + (worldMobile.particles[i].radius * sin(rad) );
 
         //PONTOS QUE VÃO COMPOR A ELLIPSE
         //point(x,y);
@@ -231,10 +231,10 @@ class Element
     //PARA CADA SETOR/PARTICLE, MEDIR A DISTÂNCIA DO MOUSE AO CENTRO
     for(let i=0; i<this.setores.length; i++) 
     {
-      this.distancia = dist (mouseX, mouseY, world.particles[i].position.x, world.particles[i].position.y);
+      this.distancia = dist (mouseX, mouseY, worldMobile.particles[i].position.x, worldMobile.particles[i].position.y);
       
       //SE O MOUSE ESTIVER DENTRO DA PARTICLE E FOR PRESSED - FICA SELECIONADA
-      if (this.distancia <= world.particles[i].radius && 
+      if (this.distancia <= worldMobile.particles[i].radius && 
           mouseIsPressed === true) 
       {
         this.setor_selecionado = i;
@@ -244,14 +244,14 @@ class Element
   
   
   //MOSTRAR LEGENDA SOBRE SETOR DA PARTICLE SELECIONADA
-  drawTootip (i) 
+  drawTootip(i) 
   {          
     //TEXT
     noStroke();
     fill(100);
     textAlign(LEFT);
-    let x = width/12;
-    let y = height/4;
+    let x = (width/12) + 30;
+    let y = (height/2) - 50;
     let y_frame = y;
     let w = textWidth(this.label_setores[i]);
     let space = 80;
@@ -262,7 +262,7 @@ class Element
     if(w < 350) w=450;
     
     //LARGURA MÁXIMA PARA O TEXTO
-    let t_max_width = w-space;
+    let t_max_width = (w-space)/2;
     
     //CALCULAR A PERCENTAGEM DE UM SETOR RELATIVAMENTE AO TOTAL ANUAL
     let percentagem = (this.setores[i]*100) / this.total;
@@ -270,41 +270,41 @@ class Element
     
     
     //TÍTULO
-    textSize(14);
-    text("SECTOR", x, y); 
+    textSize(12);
+    text("SECTOR", x+10, y); 
     
     strokeWeight(0.4);
     stroke(100);
-    line(x, y + 15, x+w, y + 15);
+    line(x+10, y + 15, 340, y + 15);
 
     
     //LABLE SETOR
     noStroke();
-    textSize(22);
-    text(this.label_setores[i], x, y + 30);
+    textSize(14);
+    text(this.label_setores[i], x+10, y + 30);
     
     
     //DESCRIÇÃO
-    y+=120;
+    y+=80;
     stroke(100);
-    line(x, y, x+w, y);
+    line(x+10, y, 340, y);
     
     noStroke();
-    textSize(14);
+    textSize(12);
     textAlign(LEFT, TOP);
 
-    text("ABOUT", x, y+10);
+    text("ABOUT", x+10, y+10);
     text(this.about_setores[i], x+space, y+10, t_max_width);
     //console.log(w, t_max_width);
     
     
     //VALORES
-    y+=120;
+    y+=140;
     stroke(100);
-    line(x, y, x+w, y);
+    line(x+10, y, 340, y);
     
     noStroke();
-    text("VALUES", x, y+10);
+    text("VALUES", x+10, y+10);
     text(this.setores[i] + ' t  of  ' + this.total + ' t total annual', x+space, y+10);
     text( percentagem + " %", x+space, y+30);
     
@@ -312,13 +312,13 @@ class Element
     y+=70;
     rectMode(CORNERS);
     fill(100, 0.25);
-    rect(x-margin, y_frame-margin, x+w+margin , y, 10)
+    rect(x, y_frame-margin, 350, y, 10)
   }
   
   
   
   //LEGENDA COMPARAÇÃO DAS PARTICLES - MOUSE PRESSED
-  mostrar_legenda ()
+  mostrar_legendaMobile ()
   {
     //BOTÃO
     let x = width-50;
@@ -340,16 +340,16 @@ class Element
     if (this.distancia <= radius_button && mouseIsPressed===true) 
     {   
       //FRAME - TABELA DE LABELS
-      let x_box = width/12;
-      let y_box = height/12;
+      let x_box = (width/8);
+      let y_box = (height/12) + 60;
       
       let margin = 30;
-      let espaco = 15;
-      let w_box = x_box + (width/3.5) + margin;
-      let h_box = y_box + margin + (espaco*3) + 25*(this.setores.length+1);
+      let espaco = 10;
+      let w_box = x_box + (width/3) + margin;
+      let h_box = y_box + margin + (espaco*4) + 20*(this.setores.length+1);
       
       //DEFINIR UM MÍNIMO PARA A LARGURA DO FRAME
-      if(w_box < 350) w_box=450;
+      if(w_box < 250) w_box=375;
       
       //FRAME
       rectMode(CORNERS);
@@ -361,7 +361,7 @@ class Element
       fill(100);
       noStroke();
       textAlign(LEFT, CENTER);
-      let text_size = 14;
+      let text_size = 10;
       textSize(text_size);
       text("CAPTION", x_box+margin, y_box+margin);
       
@@ -385,8 +385,8 @@ class Element
         textSize(text_size);
         fill(100);
         text([i],
-             world.particles[i].position.x,
-             world.particles[i].position.y);
+             worldMobile.particles[i].position.x,
+             worldMobile.particles[i].position.y);
         
         
         //... QUE O USER PODE USAR PARA COMPARAR NA TABELA DE LABELS
@@ -402,14 +402,14 @@ class Element
         
         
         fill('#DC388B');
-        ellipse(x+raio, y+3.5, raio);
+        ellipse(x+raio, y+2, raio);
         
         //Nº PARTICLE (TABELA)
         textAlign(CENTER, CENTER);
         fill(100);
         text([i], x+raio*0.95, y+raio*0.05);
         
-        y += 25;
+        y += 20;
         
         this.setor_selecionado = -1;
       }
@@ -432,8 +432,8 @@ class Element
   {
     for (let i=this.setores.length-1; i>=0; i--) 
     {
-      const p = world.particles[i];
-      world.removeParticle(p);
+      const p = worldMobile.particles[i];
+      worldMobile.removeParticle(p);
     }
   }
   

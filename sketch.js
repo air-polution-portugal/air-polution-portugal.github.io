@@ -1,7 +1,8 @@
 /*
-AIR POLUTION - PORTUGAL
+<h1>Carbon Intensity of the Economy</h1>
+<h2>Portugal | 1995 - 2020</h2>
 
-\\Developers:
+DEVELOPERS:
 _Carolina Mendonça | nº 3200349
 _Eduardo Vitorino | nº 3200337
 
@@ -13,7 +14,7 @@ _Laboratório de Projeto
 _Design Gráfico e Multimédia
 _ESAD - Escola Superior Arte e Design, Politécnico de Leiria
 _Docente: Marco Heleno
-_14/12/2022
+_18/01/2023
 */
 
 
@@ -27,6 +28,7 @@ let icon_back, icon_info, radius_button = 25;
 //PRELOAD TABELA DE DADOS
 function preload()
 {
+  //TABELA DE DADOS
   tabela_dados = loadTable("00-PreLoad/Dados.csv", "csv", "header");
   
   //TEXT FONTS
@@ -51,9 +53,8 @@ function setup()
   mouseIsReleased = true;
   
   
-  //CRIAR CÍRCULOS INTRO
+  //CRIAR PARTICLES INTRO
   let num_agents = 25;
-
   for (let i = 0; i < num_agents; i++) agents[i] = new Agent();
   
 
@@ -74,10 +75,11 @@ function setup()
 //SETUP PARA VISUALIZAÇÃO DE DADOS
 function re_Start() 
 {
-  //CRIAR WORLDS - Desktop e Mobile
+  //CRIAR WORLDS - DESKTOP e MOBILE
   world = new c2.World(new c2.Rect(0, 0, width, height));
   worldMobile = new c2.World(new c2.Rect(0, 0, width, height));
   
+  //DESKTOP
   let collision = new c2.Collision();
   world.addInteractionForce(collision);
   worldMobile.addInteractionForce(collision);
@@ -89,14 +91,15 @@ function re_Start()
   
   world.addForce(lineField);
   
-  
+  //MOBILE
   let lineFieldMobile = new c2.LineField(new c2.Line(
-  (width/2)-120, height/2,
-  (width/2)+120, height/2),
-  0.6);  //FORÇA
+  (width/2)-120, height/8,
+  (width/2)+120, height/8),
+  0.5);  //FORÇA
   
   worldMobile.addForce(lineFieldMobile);
   
+  //IMPORTAR DADOS
   importData(slider_value); 
 }
 
@@ -116,6 +119,11 @@ function draw()
     visDataMobile();
 }
 
+
+/*//(EXPORTAR FRAMES)
+function keyPressed() {
+saveFrames('out', 'png', 1, 25);
+}*/
 
 
 function windowResized()

@@ -2,13 +2,13 @@
 
 function importData (new_slider_value)
 {
-  //SE EXISTIREM PARTICLES, ELIMINAR - desktop
+  //SE EXISTIREM PARTICLES, ELIMINAR - DESKTOP
   if (world.particles.length > 0) 
   {
     elemento.removeParticles();
   }
   
-    //SE EXISTIREM PARTICLES, ELIMINAR - mobile
+    //SE EXISTIREM PARTICLES, ELIMINAR - MOBILE
   if (worldMobile.particles.length > 0) 
   {
     elementoMobile.removeParticles();
@@ -46,9 +46,9 @@ function importData (new_slider_value)
       //console.log (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
       
       
-      //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - Desktop
+      //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - DESKTOP
       elemento = new Element (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
   
-        //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - Mobile
+        //CRIAR NOVO ELEMENTO NO ARRAY, COM OS DADOS DA TABELA - MOBILE
       elementoMobile = new ElementMobile (year, agricultura, extrativa, transformadoras, gas, agua, construcao, comercio, transportes, alojamento, comunicacao, financeiras, imobiliarias, tecnologias, servicos, administracao, educacao, saude, artisticas, outras, total);
 }

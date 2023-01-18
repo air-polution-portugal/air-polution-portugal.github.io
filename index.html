@@ -3,8 +3,11 @@
   
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script type="text/javascript" defer src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.4.1/p5.js"></script>
+
     <link type="text/css" rel="stylesheet" href="style.css">
+    
     <script type="text/javascript" defer src="index.js"></script>
     <script type="text/javascript" defer src="00-PreLoad/RangeSlider.min.js"></script>
     <script type="text/javascript" defer src="00-PreLoad/c2.min.js"></script>
@@ -13,9 +16,9 @@
     <script type="text/javascript" defer src="01-intro.js"></script>
     <script type="text/javascript" defer src="02-import_data.js"></script>
     <script type="text/javascript" defer src="03-class_element.js"></script>
-    <script type="text/javascript" defer src="03-class_element_mobile.js"></script>
-    <script type="text/javascript" defer src="04-vis_data_desktop.js"></script>
-    <script type="text/javascript" defer src="05-vis_data_mobile.js"></script>
+    <script type="text/javascript" defer src="04-class_element_mobile.js"></script>
+    <script type="text/javascript" defer src="05-vis_data_desktop.js"></script>
+    <script type="text/javascript" defer src="06-vis_data_mobile.js"></script>
     <script type="text/javascript" defer src="sketch.js"></script>
   </head>
 
@@ -25,19 +28,32 @@
       <section id="intro">
         
         <div class="div_intro">
-          <h1>intensidade carbónica da economia</h1>
-          <h2>PORTUGAL | 1995 - 2020</h2>
+          <h1>Carbon Intensity of the Economy</h1>
+          <h2>Portugal | 1995 - 2020</h2>
+        </div>
+        
+        <div>
+          <p class="about">As the world hurtles towards a point of no return with regards to climate change and its effects on the planet, it becomes increasingly vital for us to acknowledge the impact of human activity on the environment. The release of chemical compounds into the atmosphere leads to air pollution and alters the natural chemical makeup of the air. The effects of these emissions vary based on the substances released, the amount released, and external factors such as weather and geography. Among various other sources of atmospheric pollutants, human activities are a major contributor to the significant negative impact on the environment.
+          </p>
 
-            <div>
-            <p class="descricao">As alterações climáticas são um problema cada vez mais presente/frequente. É importante percebermos como é que as emissões de dióxido de carbono e de outros gases causadores de efeito de estufa têm vindo a evoluir ao longo dos tempos relativamente a cada setor económico. Perceber quais são os setores mais prejudiciais para o ambiente pode ajudar-nos a perceber em que setores devemos tentar atudar de modo a tentar reduzir esta poluição.</p>
-            <p class="descricao">Quanto dióxido de carbono e outros gases causadores do aquecimento global são emitidos, em toneladas equivalentes de dióxido de carbono, por cada milhão de euros de riqueza criada?</p>
-            <p class="descricao">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc non commodo lorem, gravida vehicula dolor. In gravida interdum euismod. Etiam molestie risus dui. Pellentesque porta leo vel erat sodales, ac malesuada orci ultricies. Vestibulum non augue pellentesque, tincidunt dui quis, pulvinar erat. Nulla facilisis sit amet nulla sit amet bibendum.</p>
-            </div>
-          </div>
+          <p class="about">The quality of the air we breathe, and subsequently our health, is directly affected by this issue, making it imperative to understand the role of the Portuguese economy in contributing to it. In order to take effective action, it's crucial to identify which sectors of the economy have the most detrimental effects on the environment and focus on developing measures to combat greenhouse gas emissions.
+          </p>
+
+          <div class= "line"> </div>
+
+           <p class="about">The data presented below covers all Portuguese economic sectors between 1995 and 2020, allowing the user to understand, for each economic sector, the number of tons of carbon dioxide and other greenhouse gases emitted per million euros of wealth generated.
+          </p>
+          <p class="about">This data visualization encourages the user to view and interpret the data in a more intuitive, interactive, and exploratory way.
+          </p>
+        </div>
             
-<!--         <div id="btn_down" onclick="test()">link</div> -->
+        <!-- <div id="btn_down" onclick="test()">link</div> -->
         <div id="btn_down" onclick="test()">
           <img src="00-PreLoad/Icons/scroll2.svg">
+        </div>
+        
+        <div>
+          <img id="particle" src="00-PreLoad/Images/Particles.svg">
         </div>
       </section>
 
@@ -47,9 +63,11 @@
 
       <section class="footer">
         <div>
-          <p class="legenda">legenda</p>
-          <p>project by: Carolina Mendonça | Eduardo Vitorino</p>
-          <p>data source: <a target="_blank"  href="https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477">Pordata</a></p>
+          <p>Data source: <a target="_blank"  href="https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477">Pordata</a></p>
+          <p>Developers: 
+            <a target="_blank"  href="https://www.carolinaiam.com">Carolina Mendonça</a> | 
+            <a target="_blank"  href="https://www.behance.net/dmeduardofilipe"> Eduardo Vitorino</a> :)
+          </p>
         </div>
       </section>
 
