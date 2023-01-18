@@ -9,18 +9,38 @@
 
 <h3> About </h3>
 <p>
-    The Carbon Intensity of the Economy - Portugal 1995-2020 project's main purpose is to provide an interactive data visualization of the carbon intensity of all economic sectors in Portugal. The project's dataset \[1\] relates to the period between 1995 and 2020, which indicates "how much carbon dioxide and other greenhouse gasses are emitted, in tons, for each million euros of wealth created" (PORDATA 2022). The ultimate goal of this project is to reveal, in a visual, intuitive, explanatory and interactive way, how the pollution levels caused by each of these sectors has evolved over 25 years. Thus, it is possible for the user to understand that some extremely polluting sectors in 1995 (namely the Energy Sector and the Water Capture, Treatment and Distribution Sector) are currently more eco-friendly; although, in 2020, the most polluting sector is still the Water Capture, Treatment and Distribution Sector. Through the identification of the most polluting sectors, the user can understand which sectors should be taken into account to reduce the ecological footprint. This visualization presentes its data one year at a time (depending on the user's interaction). A set of particles (represented by a circular shape, with lines emanating from its center) are then created, each one representative of an economic sector. The size of the particle is exponentially proportional to the respective value of the carbon intensity of its sector - the bigger the particle, the more polluting the sector is. In addition, the user has the opportunity to select each particle to obtain more detailed information about the selected sector (such as the percentage of greenhouse gasses emitted relative to the annual total). This data visualization, fully developed in p5.js (JavaScript), introduces a new way of interpreting and representing the data, It recodes the set of numeric values (data), into a visual, interactive and explainable narrative.
+    The _Carbon Intensity of the Economy - Portugal 1995-2020_ project's main purpose is to provide an interactive data visualization of the carbon intensity of all economic sectors in Portugal. The project's dataset relates to the period between 1995 and 2020, which indicates "how much carbon dioxide and other greenhouse gasses are emitted, in tons, for each million euros of wealth created" (PORDATA 2022).
+    
+    <br>
+    
+    The ultimate goal of this project is to reveal, in a visual, intuitive, explanatory and interactive way, how the pollution levels caused by each of these sectors has evolved over 25 years. Thus, it is possible for the user to understand that some extremely polluting sectors in 1995 (namely the Energy Sector and the Water Capture, Treatment and Distribution Sector) are currently more eco-friendly; although, in 2020, the most polluting sector is still the Water Capture, Treatment and Distribution Sector.
+    
+    <br>
+    
+    Through the identification of the most polluting sectors, the user can understand which sectors should be taken into account to reduce the ecological footprint. This visualization presentes its data one year at a time (depending on the user's interaction). A set of particles (represented by a circular shape, with lines emanating from its center) are then created, each one representative of an economic sector. The size of the particle is exponentially proportional to the respective value of the carbon intensity of its sector - the bigger the particle, the more polluting the sector is. In addition, the user has the opportunity to select each particle to obtain more detailed information about the selected sector (such as the percentage of greenhouse gasses emitted relative to the annual total). 
+    
+    <br>
+    
+    This data visualization, fully developed in p5.js (JavaScript), introduces a new way of interpreting and representing the data, It recodes the set of numeric values (data), into a visual, interactive and explainable narrative.
 </p>
+
+<br>
 
 <h3> Contextualization </h3>
 <p>
     As the world hurtles towards a point of no return with regards to climate change and its effects on the planet, it becomes increasingly vital for us to acknowledge the impact of human activity on the environment. The release of chemical compounds into the atmosphere leads to air pollution and alters the natural chemical makeup of the air. The effects of these emissions vary based on the substances released, the amount released, and external factors such as weather and geography. Among various other sources of atmospheric pollutants, human activities are a major contributor to the significant negative impact on the environment.
+    
     <br>
+    
     The quality of the air we breathe, and subsequently our health, is directly affected by this issue, making it imperative to understand the role of the Portuguese economy in contributing to it. In order to take effective action, it's crucial to identify which sectors of the economy have the most detrimental effects on the environment and focus on developing measures to combat greenhouse gas emissions.
+    
     <br>
     <br>
+    
     The data presented below covers all Portuguese economic sectors between 1995 and 2020, allowing the user to understand, for each economic sector, the number of tons of carbon dioxide and other greenhouse gases emitted per million euros of wealth generated.
+    
     <br>
+    
     This data visualization encourages the user to view and interpret the data in a more intuitive, interactive, and exploratory way.
 </p>
 
@@ -67,19 +87,11 @@
 
 Microsoft Excel: Data Table
 
-<br>
-
 Paper and Pencil: Sketches
-
-<br>
 
 Figma: High-fidelity prototype (Wireframes)
 
-<br>
-
 P5.js: Code
-
-<br>
 
 [Library - C2.js](https://c2js.org/)
 
@@ -89,21 +101,9 @@ P5.js: Code
 <details><summary>How to use</summary>
 
 ![](anexos_relatorio/como_utilizar_1.jpg)
-
-<br>
-
 ![](anexos_relatorio/como_utilizar_2.jpg)
-
-<br>
-
 ![](anexos_relatorio/como_utilizar_3.jpg)
-
-<br>
-
 ![](anexos_relatorio/como_utilizar_4.jpg)
-
-<br>
-
 ![](anexos_relatorio/como_utilizar_5.jpg)
 
 <br>
@@ -183,11 +183,11 @@ P5.js: Code
 
 <br>
 
-- CRUZ, Pedro & WIHBEY, John & GHAEL, Avni & SHIBUYA, Felipe. Simulated Dendrochronology of U.S. immigration.(n.d.) [Here](https://pmcruz.com/dendrochronology/);
+- CRUZ, Pedro & WIHBEY, John & GHAEL, Avni & SHIBUYA, Felipe.(n.d.) _Simulated Dendrochronology of U.S. immigration_. [Here](https://pmcruz.com/dendrochronology/);
 
 <br>
 
-- CRUZ, Pedro. Um ecossistema POLÍTICO-EMPRESARIAL. [Here](https://pmcruz.com/eco/);
+- CRUZ, Pedro.(n.d.) _Um ecossistema POLÍTICO-EMPRESARIAL_. [Here](https://pmcruz.com/eco/);
 
 <br>
 
@@ -195,35 +195,51 @@ P5.js: Code
 
 <br>
 
-- FRAGAPANE, Federica. (2022).The deepest lakes. Behance. [<ins>https://www.behance.net/gallery/148418917/The-deepest-lakes</ins>](https://www.behance.net/gallery/148418917/The-deepest-lakes);
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). _Hearts and minds_. Behance. [Here](https://www.behance.net/gallery/133409063/Hearts-and-minds);
 
 <br>
 
-- PEARSON, Matt. (2009).Life in 2050 Ident. Vimeo. [<ins>https://vimeo.com/10924639?login=true</ins>](https://vimeo.com/10924639?login=true);
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2020). _Key Workers–Migrants’ contribution to COVID-19 response_. Behance. [Here](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response);
 
 <br>
 
-- VARONE, Jason. Institute of Fine Arts Dissertations. Site. [<ins>https://yining1023.github.io/IFA/projects/ifa-dissertation/</ins>](https://yining1023.github.io/IFA/projects/ifa-dissertation/);
+- FRAGAPANE, Federica. (2020). _Noise pollution_. Behance. [Here](https://www.behance.net/gallery/96908251/Noise-pollution);
 
 <br>
 
-- CRUZ, Pedro. Um ecossistema POLÍTICO-EMPRESARIAL. Site. [<ins>https://pmcruz.com/eco/</ins>](https://pmcruz.com/eco/);
+- FRAGAPANE, Federica. (2022). _The deepest lakes_. Behance. [Here](https://www.behance.net/gallery/148418917/The-deepest-lakes);
 
 <br>
 
-- CRUZ, Pedro & SHIBUYA, Felipe.  { }cene. Site. [<ins>http://pmcruz.com/works/-cene.html</ins>](http://pmcruz.com/works/-cene.html);
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). _The Mayors Dialogue on Growth and Solidarity_. Behance. [Here](https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity);
 
 <br>
 
-- CRUZ, Pedro.  Visualizing Empires Decline. Site. [<ins>http://pmcruz.com/works/visualizing-empires-decline.html</ins>](http://pmcruz.com/works/visualizing-empires-decline.html);
+- FUTUREDELUXE. (2009). _Life in 2050 Ident_. Vimeo. [Here](https://vimeo.com/10924639?login=true);
 
 <br>
 
-- PEARSON, Matt. (2011). Generative Art - a pratical guide using processing. Manning Publications;
+- GARAKUTAMUTANT (2015). _Processing animation art ( 作品 )" Disease Circles " : Garakuta Mutant_. Youtube. [Here](https://www.youtube.com/watch?v=3XbTzw9tXOk&list=PLdmBHU4Jaa1j3S_FDImTyLgnHittN6XEI&index=4);
 
 <br>
 
-- SHIFFMAN, Daniel. (2019, fevereiro, 25). Coding Challenge #123.1: Polar Perlin Noise Loops. Youtube. https://www.youtube.com/watch?v=ZI1dmHv3MeM;
+- JACOB, Etienne. (2023). _bleuje : Animations_. [Here](https://bleuje.com/animationsite/);
+
+<br>
+
+- PEARSON, Matt. (2011). _Generative Art - a practical guide using processing_. Manning Publications;
+
+<br>
+
+- SHIFFMAN, Daniel. (2019). _Coding Challenge #123.1: Polar Perlin Noise Loops_. Youtube. [Here](https://www.youtube.com/watch?v=ZI1dmHv3MeM);
+
+<br>
+
+- SHOEMAKER, Maxin. (2021). _Creative Coding Tutorial: Golden Ratio Sunflower Spiral in P5.js (Javascript)_. Youtube. [Here](https://www.youtube.com/watch?v=RrSOv9FH6uo&t=496s);
+
+<br>
+
+- VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yining1023.github.io/IFA/projects/ifa-dissertation/);
 
 </details>
 
