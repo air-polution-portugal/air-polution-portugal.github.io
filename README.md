@@ -55,7 +55,6 @@
 </details>
 
 <details><summary> Tools </summary>
-<br>
 
 Microsoft Excel: Data Table
 
@@ -67,7 +66,6 @@ P5.js: Code
 
 [Library - C2.js](https://c2js.org/)
 
-<br>
 </details>
 
 <details><summary>How to use</summary>
@@ -98,7 +96,6 @@ P5.js: Code
 </details>
 
 <details><summary> Info Sectors </summary>
-<br>
 
 [( 0 ) Primary Sector](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
 <br>
