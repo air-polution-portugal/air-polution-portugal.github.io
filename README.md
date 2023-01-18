@@ -101,117 +101,52 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <br>
 </details>
 
-<details><summary>Moodboard & Referências</summary>
+<details><summary>Style Guide</summary>
 
 <br>
 
-Key Workers
- <br>
- [Behance](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response) / [Vimeo](https://vimeo.com/431452723?embedded=true&source=vimeo_logo&owner=6931780)
-
-![](anexos_relatorio/Referência_3.jpg)
-
-![](anexos_relatorio/Referência_3-1.jpg)
+![](anexos_relatorio/style_guide.jpg)
 
 <br>
 
-Hearts and Minds
-<br>
-[Behance](https://www.behance.net/gallery/133409063/Hearts-and-minds) / [Vimeo](https://vimeo.com/657826393?embedded=true&source=vimeo_logo&owner=6931780)
-
-![](anexos_relatorio/Referência_4.png)
-![](anexos_relatorio/Referência_4-1.png)
-![](anexos_relatorio/Referência_4-2.png)
+![](anexos_relatorio/cores.jpg)
 
 <br>
-
-The Mayors Dialogue on Growth and Solidarity
-<br>
-[Behance](https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity) / [Vimeo](https://vimeo.com/499241639?embedded=true&source=vimeo_logo&owner=6931780)
-
-![](anexos_relatorio/Referência_5.png)
-![](anexos_relatorio/Referência_5-1.png)
-
-<br>
-
-Noise Pollution
-<br>
-[Behance](https://www.behance.net/gallery/96908251/Noise-pollution)
-
-![](anexos_relatorio/Referência_6.png)
-![](anexos_relatorio/Referência_6-1.png)
-
-<br>
-
-Energy Demand and the Rhythm of Everyday Life
-<br>
-[Behance](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life)
-
-![](anexos_relatorio/Referência_1.png)
-![](anexos_relatorio/Referência_1-1.png)
-
-<br>
-
-The Deepest Lakes
-<br>
-[Behance](https://www.behance.net/gallery/148418917/The-deepest-lakes)
-
-![](anexos_relatorio/Referência_2.png)
-
-<br>
-
-Life in 2050 Ident
-<br>
-[Vimeo](https://vimeo.com/10924639)
-
-![](anexos_relatorio/Referência_7.png)
-
-<br>
-
-<!-- [Visualizing the Digits of Pi](https://www.youtube.com/watch?v=WEd_UIKG-uc&list=PLdmBHU4Jaa1j3S_FDImTyLgnHittN6XEI&index=32)
-
-<br>
-
-<!-- ![](anexos_relatorio/Referência_8.png)
-
-<br> -->
-
-Institute of Fine Arts Dissertations
-<br>
-[Behance](https://yining1023.github.io/IFA/projects/ifa-dissertation/) / [Site](https://yining1023.github.io/IFA/projects/ifa-dissertation/)
-
-![](anexos_relatorio/Referência_9.png)
-![](anexos_relatorio/Referência_9-1.png)
-
-
-<br>
-
-Um ecossistema POLÍTICO-EMPRESARIAL
-<br>
-[Site](https://pmcruz.com/eco/)
-
-![](anexos_relatorio/Referência_10.png)
-![](anexos_relatorio/Referência_10-1.png)
-
- <br>
- 
- -cene
-<br>
-[Site](http://pmcruz.com/works/-cene.html)
-
-![](anexos_relatorio/Referência_11.png)
-
-<br>
-
-Visualizing Empires Decline
-<br>
-[Site](http://pmcruz.com/works/visualizing-empires-decline.html)
-
-![](anexos_relatorio/Referência_12.png)
--->
 </details>
 
-<details><summary>Esboços</summary>
+<details><summary>Moodboard</summary>
+
+<br>
+
+![](anexos_relatorio/moodboard.jpg)
+<br>
+</details>
+
+<details><summary>How to use</summary>
+
+![](anexos_relatorio/como_utilizar_1.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_2.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_3.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_4.jpg)
+
+<br>
+
+![](anexos_relatorio/como_utilizar_5.jpg)
+
+<br>
+
+</details>
+
+<details><summary></summary>
 
 ![](anexos_relatorio/WireFrame_1.jpg)
 
@@ -220,21 +155,13 @@ Visualizing Empires Decline
 ![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
-<details><summary>Versões Anteriores</summary>
+<details><summary>Sequence - Versões Antigas</summary>
 
-![](anexos_relatorio/Versões_1.png)
-![](anexos_relatorio/Versões_2.png)
-![](anexos_relatorio/Versões_3.png)
-![](anexos_relatorio/Versões_4.png)
-![](anexos_relatorio/Versões_5.png)
-![](anexos_relatorio/Versões_6.png)
-![](anexos_relatorio/Versões_7.png)
-![](anexos_relatorio/Versões_9.png)
-![](anexos_relatorio/Versões_10.png)
-![](anexos_relatorio/Versões_11.png)
-![](anexos_relatorio/Versões_12.png)
-![](anexos_relatorio/Versões_13.png)
-![](anexos_relatorio/Versões_14.png)
+<br>
+
+![](anexos_relatorio/sequencia.gif)
+
+<br>
 
 </details>
 
@@ -290,16 +217,55 @@ Visualizing Empires Decline
 <!--<details><summary>Referências</summary>
 **
 
-References:
+<details><summary> References </summary>
+<br>
 
-\- PEARSON, Matt. (2011). Generative Art - a pratical guide using processing. Manning Publications;
+\- FRAGAPANE, Federica & PIACENTINI, Alex. (2020). Hearts and minds. Behance. [<ins>https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response</ins>](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response)
 
-\- SHIFFMAN, Daniel. (2019, fevereiro, 25). Coding Challenge #123.1: Polar Perlin Noise Loops. Youtube. https://www.youtube.com/watch?v=ZI1dmHv3MeM;
+<br>
 
-\- SHOEMAKER, Maxin. (2021, fevereiro, 21). Creative Coding Tutorial: Golden Ratio Sunflower Spiral in P5.js (Javascript). Youtube. https://www.youtube.com/watch?v=RrSOv9FH6uo&t=496s;
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). Coding Challenge #123.1: Polar Perlin Noise Loops. Behance. [<ins>https://www.behance.net/gallery/133409063/Hearts-and-minds</ins>](https://www.behance.net/gallery/133409063/Hearts-and-minds);
 
-**
-<details-->
+<br>
+
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2021). The Mayors Dialogue on Growth and Solidarity. Behance. [<ins>https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity</ins>](https://www.behance.net/gallery/111133627/The-Mayors-Dialogue-on-Growth-and-Solidarity);
+
+<br>
+
+- FRAGAPANE, Federica. (2020). Noise pollution. Behance. [<ins>https://www.behance.net/gallery/96908251/Noise-pollution</ins>](https://www.behance.net/gallery/96908251/Noise-pollution);
+
+<br>
+
+- FRAGAPANE, Federica. (2022).Energy demand and the rhythm of everyday life. Behance. [<ins>https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life</ins>](https://www.behance.net/gallery/153326341/Energy-demand-and-the-rhythm-of-everyday-life);
+
+<br>
+
+- FRAGAPANE, Federica. (2022).The deepest lakes. Behance. [<ins>https://www.behance.net/gallery/148418917/The-deepest-lakes</ins>](https://www.behance.net/gallery/148418917/The-deepest-lakes);
+
+<br>
+
+- PEARSON, Matt. (2009).Life in 2050 Ident. Vimeo. [<ins>https://vimeo.com/10924639?login=true</ins>](https://vimeo.com/10924639?login=true);
+
+<br>
+
+- VARONE, Jason. Institute of Fine Arts Dissertations. Site. [<ins>https://yining1023.github.io/IFA/projects/ifa-dissertation/</ins>](https://yining1023.github.io/IFA/projects/ifa-dissertation/);
+
+<br>
+
+- CRUZ, Pedro. Um ecossistema POLÍTICO-EMPRESARIAL. Site. [<ins>https://pmcruz.com/eco/</ins>](https://pmcruz.com/eco/);
+
+<br>
+
+- CRUZ, Pedro & SHIBUYA, Felipe.  { }cene. Site. [<ins>http://pmcruz.com/works/-cene.html</ins>](http://pmcruz.com/works/-cene.html);
+
+<br>
+
+- CRUZ, Pedro.  Visualizing Empires Decline. Site. [<ins>http://pmcruz.com/works/visualizing-empires-decline.html</ins>](http://pmcruz.com/works/visualizing-empires-decline.html);
+
+<br>
+
+</details>
+
 <p>
 Developers:
     <br>
