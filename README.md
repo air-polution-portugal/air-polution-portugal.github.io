@@ -217,11 +217,9 @@ SHOEMAKER, Maxin. (2021). _Creative Coding Tutorial: Golden Ratio Sunflower Spir
 
 VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yining1023.github.io/IFA/projects/ifa-dissertation/);
 
-</details>
-
 <br>
 
-
+</details>
 
 Developers:
 <p>
