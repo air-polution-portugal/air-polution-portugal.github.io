@@ -26,22 +26,14 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 
 -->
 
-<!--<details><summary> Imagens - Interação </summary>
-
-![](anexos_relatorio/Interação_1.png)
-
-![](anexos_relatorio/Interação_2.png)
-
-</details>-->
-
-**Fonte de recolha de dados**
+**Info - Data**
 <br>[here](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477) :)
 <br>
 
-**Dados**
+**Table - Data**
 <br>[here](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv) :)
 
-<details><summary> Info - Sectors </summary>
+<details><summary> Info Sectors </summary>
 <br>
 
 [( 0 ) Primary Sector](https://eportugal.gov.pt/categorias-de-actividade/agrc-anml-flrst-pesca)
@@ -84,10 +76,6 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <br>
 
 </details>
-
-**Biblioteca - C2.js**
-<br>[here](https://c2js.org/) :)
-<br>
 
 <details><summary> Tools </summary>
 <br>
@@ -146,7 +134,7 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 
 </details>
 
-<details><summary></summary>
+<details><summary> Sketches </summary>
 
 ![](anexos_relatorio/WireFrame_1.jpg)
 
@@ -155,7 +143,7 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 ![](anexos_relatorio/WireFrame_3.jpg)
 </details>
 
-<details><summary>Sequence - Versões Antigas</summary>
+<details><summary>Sequence - Old Version</summary>
 
 <br>
 
@@ -174,53 +162,13 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 ![](anexos_relatorio/WireFrame_Figma_5.jpg)
 </details>
 
-<!--<details><summary>To do List (para um futuro próximo) </summary>
-
-- [x] Particles - Formato & Cores
-
-- [x] Manter o MouseIsPressed (selecionar) nas Particles
-
-- [x] Pop-up - Legenda de Compração
-
-- [x] Slider
-    - [x] Legenda
-
-- [ ] Tornar Responsive
-     - [ ] Mobile Layout
-     - [x] Particles Spawn
-
-- [ ]  Escrever Textos
-     - [x] Título Projeto
-     - [ ] Texto Intro
-     - [ ] Textos Setores
-     - [x] Alterar Nomes Setores
-
-- [x] Botões
-
 </details>
-
-<details><summary> To do List  (para um futuro não tão próximo :) )</summary>
-
-- [x] Tornar Responsive (Cont.)
-    - [x] TextBoxes
-    - [x] Organizar Particles - Point vs Line
-  
-- [x] Scene Intro - Particles
-
-- [ ] PT vs EN (2 Versões?)
-
-- [ ] Slider
-    - [x] Interação Pointer
-    - [ ] Interação on MouseRelleased
-
-</details>-->
-<!--<details><summary>Referências</summary>
-**
+<details><summary>Referências</summary>
 
 <details><summary> References </summary>
 <br>
 
-\- FRAGAPANE, Federica & PIACENTINI, Alex. (2020). Hearts and minds. Behance. [<ins>https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response</ins>](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response)
+- FRAGAPANE, Federica & PIACENTINI, Alex. (2020). Hearts and minds. Behance. [<ins>https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response</ins>](https://www.behance.net/gallery/99331127/Key-WorkersMigrants-contributionto-COVID-19-response)
 
 <br>
 
