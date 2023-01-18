@@ -9,8 +9,6 @@
 
 <h3> About </h3>
 
-<br>
-
 <p>
     The Carbon Intensity of the Economy - Portugal 1995-2020 project's main purpose is to provide an interactive data visualization of the carbon intensity of all economic sectors in Portugal. The project's dataset relates to the period between 1995 and 2020, which indicates "how much carbon dioxide and other greenhouse gasses are emitted, in tons, for each million euros of wealth created" (PORDATA 2022). The ultimate goal of this project is to reveal, in a visual, intuitive, explanatory and interactive way, how the pollution levels caused by each of these sectors has evolved over 25 years. Thus, it is possible for the user to understand that some extremely polluting sectors in 1995 (namely the Energy Sector and the Water Capture, Treatment and Distribution Sector) are currently more eco-friendly; although, in 2020, the most polluting sector is still the Water Capture, Treatment and Distribution Sector. Through the identification of the most polluting sectors, the user can understand which sectors should be taken into account to reduce the ecological footprint. This visualization presentes its data one year at a time (depending on the user's interaction). A set of particles (represented by a circular shape, with lines emanating from its center) are then created, each one representative of an economic sector. The size of the particle is exponentially proportional to the respective value of the carbon intensity of its sector - the bigger the particle, the more polluting the sector is. In addition, the user has the opportunity to select each particle to obtain more detailed information about the selected sector (such as the percentage of greenhouse gasses emitted relative to the annual total). This data visualization, fully developed in p5.js (JavaScript), introduces a new way of interpreting and representing the data, It recodes the set of numeric values (data), into a visual, interactive and explainable narrative.
 </p>
@@ -64,6 +62,8 @@ P5.js: Code
 
 [Library - C2.js](https://c2js.org/)
 
+<br>
+
 </details>
 
 <details><summary>How to use</summary>
@@ -88,6 +88,8 @@ P5.js: Code
 [Data source](https://www.pordata.pt/portugal/intensidade+carbonica+da+economia+por+setor+de+atividade-3477)
 
 [Data table](https://github.com/air-polution-portugal/air-polution-portugal.github.io/blob/main/00-Dados.csv)
+
+<br>
 
 </details>
 
@@ -157,7 +159,7 @@ CRUZ, Pedro.(n.d.) _Um ecossistema POLÍTICO-EMPRESARIAL_. [Here](https://pmcruz
 
 <br>
 
-EPORTUGAL.GOV.PT. (n.d.). [Here](https://eportugal.gov.pt/);
+EPORTUGAL.GOV.PT. (n.d.). _Entrepreneur's Desk | Services for Economic Activity_. [Here](https://eportugal.gov.pt/inicio/espaco-empresa/balcao-do-empreendedor);
 
 <br>
 
@@ -217,11 +219,13 @@ VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yi
 
 </details>
 
+<br>
+
 <p>
-Developers:
+**Developers:**
     <br>
-    _Carolina Mendonça | nº 3200349
+    [Carolina Mendonça | nº 3200349](https://www.carolinaiam.com/)
     <br>
-    _Eduardo Vitorino | nº 3200337
+    [Eduardo Vitorino | nº 3200337](https://www.behance.net/dmeduardofilipe)
 </p>
 
