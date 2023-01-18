@@ -258,7 +258,7 @@ class Element
     let margin = 30;
     
     
-    //DEFINIR UM MÍNIMO PARA A LARGURA DAS LINHAS
+    //DEFINIR UM MÍNIMO PARA AS LINHAS
     if(w < 350) w=450;
     
     //LARGURA MÁXIMA PARA O TEXTO

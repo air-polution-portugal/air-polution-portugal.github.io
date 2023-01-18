@@ -209,9 +209,6 @@ class ElementMobile
         let rad = radians(ang);
 
         //TRIGNOMETRIA FANCY
-          //RAIO = HIPOTENUSA ENTRE CENTRO DA ELLIPSE E UM PONTO DA ELLIPSE
-          //SINE OF ANGLE x = OPPOSITE OVER HYPOTENUSE
-          //COSINE OF ANGLE x = ADJACENT OVER HYPOTENUSE
         x = centerX + (worldMobile.particles[i].radius * cos(rad) );
         y = centerY + (worldMobile.particles[i].radius * sin(rad) );
 
@@ -258,7 +255,7 @@ class ElementMobile
     let margin = 30;
     
     
-    //DEFINIR UM MÍNIMO PARA A LARGURA DAS LINHAS
+    //DEFINIR UM MÍNIMO PARA AS LINHAS
     if(w < 350) w=450;
     
     //LARGURA MÁXIMA PARA O TEXTO

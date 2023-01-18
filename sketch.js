@@ -66,8 +66,6 @@ function setup()
    
   //CRIAR WORLD E PARTICLES & IMPORTAR DADOS
   re_Start();
-  
-  console.log(windowWidth);
 }
 
 

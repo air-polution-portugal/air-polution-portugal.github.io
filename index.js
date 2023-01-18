@@ -40,4 +40,3 @@ const callback = (entries, observer) =>
 const observer = new IntersectionObserver (callback, options);
 
 observer.observe (document.getElementById("p5_section"));
-

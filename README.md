@@ -136,6 +136,9 @@ P5.js: Code
 
 
 <details><summary> References </summary>
+
+AGÊNCIA PORTUGUESA DO AMBIENTE. (n.d.) _Poluição do ar_. [Here](https://apambiente.pt/ar-e-ruido/poluicao-do-ar);
+
 <br>
 
 CRUZ, Pedro & SHIBUYA, Felipe.(n.d.) _[] cene_. [Here]([<ins>http://pmcruz.com/works/-cene.html</ins>](http://pmcruz.com/works/-cene.html));
@@ -151,6 +154,10 @@ CRUZ, Pedro & WIHBEY, John & GHAEL, Avni & SHIBUYA, Felipe.(n.d.) _Simulated Den
 <br>
 
 CRUZ, Pedro.(n.d.) _Um ecossistema POLÍTICO-EMPRESARIAL_. [Here](https://pmcruz.com/eco/);
+
+<br>
+
+EPORTUGAL.GOV.PT. (n.d.). [Here](https://eportugal.gov.pt/);
 
 <br>
 
