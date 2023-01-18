@@ -8,6 +8,9 @@
 
 
 <h3> About </h3>
+
+<br>
+
 <p>
     The _Carbon Intensity of the Economy - Portugal 1995-2020_ project's main purpose is to provide an interactive data visualization of the carbon intensity of all economic sectors in Portugal. The project's dataset relates to the period between 1995 and 2020, which indicates "how much carbon dioxide and other greenhouse gasses are emitted, in tons, for each million euros of wealth created" (PORDATA 2022).
     
