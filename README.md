@@ -221,11 +221,9 @@ VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yi
 
 </details>
 
-Developers:
+<h3> Developers </h3>
 <p>
-
-    Carolina Mendonça | nº 3200349
-    Eduardo Vitorino | nº 3200337
-    
+    Carolina Mendonça | nº3200349
+    <br>
+    Eduardo Vitorino | nº3200337
 </p>
-
