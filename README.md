@@ -101,7 +101,7 @@ Esta visualização de dados, integralmente desenvolvida em P5.js (JavaScript), 
 <br>
 </details>
 
-<!--<details><summary>Moodboard & Referências</summary>
+<details><summary>Moodboard & Referências</summary>
 
 <br>
 
@@ -208,8 +208,8 @@ Visualizing Empires Decline
 [Site](http://pmcruz.com/works/visualizing-empires-decline.html)
 
 ![](anexos_relatorio/Referência_12.png)
-
-</details> -->
+-->
+</details>
 
 <details><summary>Esboços</summary>
 
