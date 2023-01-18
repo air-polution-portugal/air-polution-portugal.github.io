@@ -222,11 +222,12 @@ VARONE, Jason.(n.d.) _Institute of Fine Arts Dissertations_. [Here](https://yi
 <br>
 
 <p>
+
 **Developers:**
 
-    [Carolina Mendonça | nº 3200349](https://www.carolinaiam.com/)
+    [Carolina Mendonça](https://www.carolinaiam.com/) | nº 3200349
     
-    [Eduardo Vitorino | nº 3200337](https://www.behance.net/dmeduardofilipe)
+    [Eduardo Vitorino](https://www.behance.net/dmeduardofilipe)  | nº 3200337
     
 </p>
 
